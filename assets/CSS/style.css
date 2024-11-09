@@ -4,12 +4,16 @@
     --secondary-font: "Roboto Medium 500", sans-serif;
     --primary-color: #D01110;
     /* RED */
+
     --secondary-color: #0A0A00;
     /* BLACK */
+
     --tertiary-color: #A8BBB0;
     /* CELADON */
+
     --quaternary-color: #EBE8E0;
     /* IVORY */
+
 
 }
 
@@ -19,5 +23,17 @@
 /* Navbar styles */
 
 nav .cta {
-    backgroun-color: 
+    background-color: #D01110;
+    padding: 5px 10px;
+}
+
+
+nav a {
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul .navbar-nav {
+    float: right;
 }
