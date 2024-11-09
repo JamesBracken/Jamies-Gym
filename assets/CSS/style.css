@@ -1,0 +1,23 @@
+/* CSS Variables */
+:root {
+    --primary-font: "Inter", sans-serif;
+    --secondary-font: "Roboto Medium 500", sans-serif;
+    --primary-color: #D01110;
+    /* RED */
+    --secondary-color: #0A0A00;
+    /* BLACK */
+    --tertiary-color: #A8BBB0;
+    /* CELADON */
+    --quaternary-color: #EBE8E0;
+    /* IVORY */
+
+}
+
+/* Global styles */
+
+
+/* Navbar styles */
+
+nav .cta {
+    backgroun-color: 
+}
