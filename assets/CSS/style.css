@@ -85,6 +85,16 @@ header #title{
     padding: 0 0 10px 0;
 }
 
+#gymtimes td, tr, th{
+    background-color: var(--tertiary-color);
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+
+.socialmedialinks {
+
+}
+
 .social-media-links i{
     font-size: 2em;
     color: var(--secondary-color)
