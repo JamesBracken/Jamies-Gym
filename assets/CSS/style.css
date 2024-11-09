@@ -1,8 +1,8 @@
 /* CSS Variables */
 :root {
     --primary-font: "Inter", sans-serif;
-    --secondary-font: "Roboto Medium 500", sans-serif;
-    --tertiary-font: "Macondo", sans-serif;
+    --secondary-font: "Macondo", sans-serif;
+    --tertiary-font: "Roboto Medium 500", sans-serif;
     --primary-color: #D01110;
     /* RED */
 
@@ -25,13 +25,17 @@ body {
 }
 
 .heading {
-    font-family: var(--primary-font) !important;
+    font-family: var(--secondary-font) !important;
 }
 
-/* Added this for higher specificity, regularly targetting them is not working due to BS overriding styles */
+p {
+    font-family: var(--primary-font)
+}
+
+/* Added this for higher specificity, regularly targetting them is not working due to BS display class overriding styles */
 .display-6,
 display-3 {
-    font-family: var(--primary-font) !important;
+    font-family: var(--secondary-font) !important;
 
 }
 /* Navbar styles */
@@ -41,9 +45,10 @@ nav {
 }
 #navbar-brand-anchor {
     background-color: #D01110;
+    font-size: 30px;
     padding: 5px 10px;
 }
-nav .cta button {
+.cta button {
     background-color: #D01110;
     padding: 5px 10px;
     margin: 2px 5px;
@@ -58,6 +63,9 @@ ul li a{
 
 /* Header */
 
+.active {
+    font-weight: bold;
+}
 header #title{
     /* background-color: var(--tertiary-color); */
     width: 98%;
@@ -109,6 +117,7 @@ header #title{
     background-color: var(--tertiary-color);
     border-bottom: 1px solid black;
     padding: 5px;
+    font-family: var(--primary-font);
 }
 
 .socialmedialinks {
