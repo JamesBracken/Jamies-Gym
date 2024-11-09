@@ -74,3 +74,18 @@ header #title{
     max-width: 100%;
     max-height: 100vh;
 }
+
+/* Footer section */
+
+#contactinfo {
+    float: right;
+}
+#contact {
+    background-color: var(--tertiary-color);
+    padding: 0 0 10px 0;
+}
+
+.social-media-links i{
+    font-size: 2em;
+    color: var(--secondary-color)
+}
