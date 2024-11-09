@@ -21,10 +21,24 @@
 /* Global styles */
 
 body {
-    background-color:var(--tertiary-color);
+    background-color:white;
 }
 
+.heading {
+    font-family: var(--primary-font) !important;
+}
+
+/* Added this for higher specificity, regularly targetting them is not working due to BS overriding styles */
+.display-6,
+display-3 {
+    font-family: var(--primary-font) !important;
+
+}
 /* Navbar styles */
+
+nav {
+    background-color: var(--tertiary-color) !important;
+}
 #navbar-brand-anchor {
     background-color: #D01110;
     padding: 5px 10px;
@@ -44,13 +58,13 @@ ul li a{
 
 /* Header */
 
-/* header #title{
-    background-color: var(--tertiary-color);
+header #title{
+    /* background-color: var(--tertiary-color); */
     width: 98%;
     margin: auto;
-} */
+}
 #title h1{
-    /* font-size: 70px; */
+    font-size: 70px;
     font-family: var(--tertiary-font);
     font-style:italic;
     text-align: center;
