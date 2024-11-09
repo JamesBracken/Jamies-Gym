@@ -2,6 +2,7 @@
 :root {
     --primary-font: "Inter", sans-serif;
     --secondary-font: "Roboto Medium 500", sans-serif;
+    --tertiary-font: "Macondo", sans-serif;
     --primary-color: #D01110;
     /* RED */
 
@@ -19,6 +20,9 @@
 
 /* Global styles */
 
+body {
+    background-color:var(--tertiary-color);
+}
 
 /* Navbar styles */
 #navbar-brand-anchor {
@@ -36,6 +40,22 @@ nav .cta button {
 
 ul li a{
     margin: 0 5px;
+}
+
+/* Header */
+
+/* header #title{
+    background-color: var(--tertiary-color);
+    width: 98%;
+    margin: auto;
+} */
+#title h1{
+    /* font-size: 70px; */
+    font-family: var(--tertiary-font);
+    font-style:italic;
+    text-align: center;
+}
+
 #heroimg {
     max-width: 100%;
     max-height: 100vh;
