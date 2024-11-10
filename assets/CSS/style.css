@@ -22,6 +22,10 @@
 
 body {
     background-color:white;
+    padding-top: 71px;
+}
+main {
+    height: 100vh;
 }
 
 .heading {
