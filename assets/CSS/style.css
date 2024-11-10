@@ -102,12 +102,19 @@ header #title{
 
 /* Class section */
 
-.classsectionimg{
-    width: 49%;
-    height:25vh;
-    margin-bottom: 5px;
-}
+/* Below belonging to class images, complications on structuring this in the 
+website, will re-attempt later in the course if time allows */
 
+/* To eliminate gap between class section images */
+/* #classessection div {
+    padding: 0 0 0 0;
+} */
+
+.classsectionimg{
+    width: 100%;
+}
+/* height:25vh;
+     */
 
 /* Footer section */
 
