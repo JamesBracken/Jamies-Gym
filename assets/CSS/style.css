@@ -37,19 +37,28 @@ main {
     font-family: var(--secondary-font) !important;
 }
 
-p {
+p,
+.text-content {
     font-family: var(--primary-font)
 }
 
 .container {
     margin-bottom: 1.5em;
 }
+.card {
+    margin-bottom: 1.5em;
+}
 
 /* Added this for higher specificity, regularly targetting them is not working due to BS display class overriding styles */
 .display-6,
-display-3 {
+.display-3 {
     font-family: var(--secondary-font) !important;
 
+
+}
+
+.line-through {
+    text-decoration: line-through;
 }
 /* Navbar styles */
 
@@ -126,8 +135,35 @@ website, will re-attempt later in the course if time allows */
 .classsectionimg{
     width: 100%;
 }
-/* height:25vh;
-     */
+
+#membershipsection {
+    padding-top: 1.5em;
+}
+
+/* Membership card section */
+
+.membershipcard1header {
+ background-color: silver;
+ /* font-weight: bold; */
+ font-family: var(--primary-font) !important;
+}
+
+.membershipcard2header {
+    background-color: gold;
+ /* font-weight: bold; */
+ font-family: var(--primary-font) !important;
+}
+
+.membershipcard3header {
+    background-color: #294d8f;
+    /* font-weight: bold; */
+    font-family: var(--primary-font) !important;
+}
+
+.blockquote-footer{
+    color:#0A0A00;
+    /* font-weight: bold; */
+}
 
 /* Footer section */
 
