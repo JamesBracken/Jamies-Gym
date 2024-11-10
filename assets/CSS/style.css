@@ -100,7 +100,13 @@ header #title{
 
 } */
 
-/*  */
+/* Class section */
+
+.classsectionimg{
+    width: 49%;
+    height:25vh;
+    margin-bottom: 5px;
+}
 
 
 /* Footer section */
