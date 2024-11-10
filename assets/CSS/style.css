@@ -20,6 +20,12 @@
 
 /* Global styles */
 
+
+/* to check grids structure prior to adding content */
+/* div {
+    border: 2px solid black;
+} */
+
 body {
     background-color:white;
     padding-top: 71px;
@@ -27,13 +33,16 @@ body {
 main {
     height: 100vh;
 }
-
 .heading {
     font-family: var(--secondary-font) !important;
 }
 
 p {
     font-family: var(--primary-font)
+}
+
+.container {
+    margin-bottom: 1.5em;
 }
 
 /* Added this for higher specificity, regularly targetting them is not working due to BS display class overriding styles */
