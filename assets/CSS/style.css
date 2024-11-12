@@ -27,12 +27,10 @@
 } */
 
 body {
-    background-color:var(--quaternary-color);
+    background-color: var(--quaternary-color);
     padding-top: 71px;
 }
-main {
-    /* height: 100vh; */
-}
+
 .heading {
     font-family: var(--secondary-font) !important;
 }
@@ -45,6 +43,7 @@ p,
 .container {
     margin-bottom: 1.5em;
 }
+
 .card {
     margin-bottom: 1.5em;
 }
@@ -58,26 +57,29 @@ p,
 .line-through {
     text-decoration: line-through;
 }
+
 /* Navbar styles */
 
 nav {
     background-color: var(--tertiary-color) !important;
 }
+
 #navbar-brand-anchor {
     background-color: #D01110;
     font-size: 30px;
     padding: 5px 10px;
 }
+
 .cta button {
     background-color: #D01110;
     padding: 5px 10px;
     margin: 2px 5px;
-    color:white;
+    color: white;
     text-decoration: none;
     font-weight: bold;
 }
 
-ul li a{
+ul li a {
     margin: 0 5px;
 }
 
@@ -86,15 +88,17 @@ ul li a{
 .active {
     font-weight: bold;
 }
-header #title{
+
+header #title {
     /* background-color: var(--tertiary-color); */
     width: 98%;
     margin: auto;
 }
-#title h1{
+
+#title h1 {
     font-size: 70px;
     font-family: var(--secondary-font);
-    font-style:italic;
+    font-style: italic;
     text-align: center;
 }
 
@@ -130,7 +134,7 @@ website, will re-attempt later in the course if time allows */
     padding: 0 0 0 0;
 } */
 
-.classsectionimg{
+.classsectionimg {
     width: 100%;
 }
 
@@ -141,15 +145,15 @@ website, will re-attempt later in the course if time allows */
 /* Membership card section */
 
 .membershipcard1header {
- background-color: silver;
- /* font-weight: bold; */
- font-family: var(--primary-font) !important;
+    background-color: silver;
+    /* font-weight: bold; */
+    font-family: var(--primary-font) !important;
 }
 
 .membershipcard2header {
     background-color: gold;
- /* font-weight: bold; */
- font-family: var(--primary-font) !important;
+    /* font-weight: bold; */
+    font-family: var(--primary-font) !important;
 }
 
 .membershipcard3header {
@@ -158,33 +162,43 @@ website, will re-attempt later in the course if time allows */
     font-family: var(--primary-font) !important;
 }
 
-.blockquote-footer{
-    color:#0A0A00;
+.blockquote-footer {
+    color: #0A0A00;
     /* font-weight: bold; */
 }
+
+/* Signup page */
 
 /* Footer section */
 
 #contactinfo {
     float: right;
 }
+
 #contact {
     background-color: var(--tertiary-color);
     padding: 0 0 10px 0;
 }
 
-#gymtimes td, tr, th{
+#gymtimes td,
+tr,
+th {
     background-color: var(--tertiary-color);
     border-bottom: 1px solid black;
     padding: 5px;
     font-family: var(--primary-font);
 }
 
-.socialmedialinks {
+.socialmedialinks {}
 
-}
-
-.social-media-links i{
+.social-media-links i {
     font-size: 2em;
     color: var(--secondary-color)
+}
+
+/* Media devices (large laptops, 768px and up */
+@media screen and (min-width: 768px) {
+    #membershipsection .card-body {
+        min-height: 334px;
+    }
 }
