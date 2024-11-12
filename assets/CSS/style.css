@@ -27,11 +27,11 @@
 } */
 
 body {
-    background-color:white;
+    background-color:var(--quaternary-color);
     padding-top: 71px;
 }
 main {
-    height: 100vh;
+    /* height: 100vh; */
 }
 .heading {
     font-family: var(--secondary-font) !important;
@@ -53,8 +53,6 @@ p,
 .display-6,
 .display-3 {
     font-family: var(--secondary-font) !important;
-
-
 }
 
 .line-through {
