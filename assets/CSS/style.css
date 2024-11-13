@@ -27,7 +27,10 @@
 } */
 
 body {
-    background-color: var(--quaternary-color);
+
+    /* Temporarily changing color to text new style */
+    /* background-color: var(--quaternary-color); */
+    background-color: #d3d3d3;
     padding-top: 55px;
 }
 
@@ -193,6 +196,18 @@ website, will re-attempt later in the course if time allows */
     /* font-weight: bold; */
 }
 
+.category-div {
+    background-color: #EBE8E0;
+    border-radius: 10px;
+}
+
+.category-div div{
+    padding: 0;
+}
+
+.category-div img{
+    border-radius: 0 10px 10px 0 ;
+}
 /* Signup page */
 
 /* Footer section */
