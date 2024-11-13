@@ -58,6 +58,8 @@ p,
     text-decoration: line-through;
 }
 
+
+
 /* Navbar styles */
 
 nav {
@@ -81,6 +83,14 @@ nav {
 
 ul li a {
     margin: 0 5px;
+}
+
+#navbar-brand-anchor {
+    min-height: 100%
+}
+
+.navbar {
+    padding: 0 ;
 }
 
 /* Header */
