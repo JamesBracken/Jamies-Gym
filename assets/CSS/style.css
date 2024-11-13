@@ -48,6 +48,10 @@ p,
     margin-bottom: 1.5em;
 }
 
+.underline {
+    text-decoration: underline;
+}
+
 /* Added this for higher specificity, regularly targetting them is not working due to BS display class overriding styles */
 .display-6,
 .display-3 {
