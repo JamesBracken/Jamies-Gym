@@ -199,14 +199,16 @@ th {
     font-family: var(--primary-font);
 }
 
-.socialmedialinks {}
+.socialmedialinks {
+
+}
 
 .social-media-links i {
     font-size: 2em;
     color: var(--secondary-color)
 }
 
-/* Media devices (large laptops, 768px and up */
+/* Media devices (large laptops, 768px and up) */
 @media screen and (min-width: 768px) {
     #membershipsection .card-body {
         min-height: 334px;
