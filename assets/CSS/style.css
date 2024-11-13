@@ -2,7 +2,7 @@
 :root {
     --primary-font: "Inter", sans-serif;
     --secondary-font: "Macondo", sans-serif;
-    --tertiary-font: "Roboto Medium 500", sans-serif;
+    --tertiary-font: "Oswald", sans-serif;
     --primary-color: #D01110;
     /* RED */
 
@@ -70,6 +70,9 @@ nav {
     background-color: #D01110;
     font-size: 30px;
     padding: 5px 10px;
+    font-family: var(--tertiary-font);
+    font-weight: bold;
+    font-style: italic;
 }
 
 .cta button {
