@@ -75,6 +75,9 @@ p,
     font-size: 20px;
 }
 
+.white-text {
+    color: #d3d3d3 !important;
+}
 /* Navbar styles */
 
 nav {
@@ -206,8 +209,7 @@ website, will re-attempt later in the course if time allows */
 #gymtimes td,
 tr,
 th {
-    background-color: var(--tertiary-color);
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid white;
     padding: 5px;
     font-family: var(--primary-font);
 }
@@ -219,6 +221,10 @@ th {
 .social-media-links i {
     font-size: 2em;
     color: var(--secondary-color)
+}
+
+footer i{
+    color:#A8BBB0
 }
 
 /* Media devices (large laptops, 768px and up) */
