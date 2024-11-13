@@ -62,7 +62,18 @@ p,
     text-decoration: line-through;
 }
 
-
+.cta button {
+    background-color: #D01110;
+    padding: 5px 10px;
+    margin: 2px 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border: none;
+    height: 55px;
+    margin:0;
+    font-size: 20px;
+}
 
 /* Navbar styles */
 
@@ -77,15 +88,6 @@ nav {
     font-family: var(--tertiary-font);
     font-weight: bold;
     font-style: italic;
-}
-
-.cta button {
-    background-color: #D01110;
-    padding: 5px 10px;
-    margin: 2px 5px;
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
 }
 
 ul li a {
