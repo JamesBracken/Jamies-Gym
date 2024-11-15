@@ -150,6 +150,7 @@ ul li a {
 
 .active {
     font-weight: bold;
+    color: grey!important;
 }
 
 header #title {
@@ -284,8 +285,6 @@ th {
     padding: 5px;
     font-family: var(--primary-font);
 }
-
-.socialmedialinks {}
 
 .social-media-links i {
     font-size: 2em;
