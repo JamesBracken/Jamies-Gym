@@ -153,7 +153,7 @@ header #title {
 
 } */
 
-/* Class section */
+/* Home class section */
 
 /* Below belonging to class images, complications on structuring this in the 
 website, will re-attempt later in the course if time allows */
@@ -208,8 +208,15 @@ website, will re-attempt later in the course if time allows */
 .category-div img{
     border-radius: 0 10px 10px 0 ;
 }
-/* Signup page */
+/* Classes page */
 
+#classesmemberships img {
+    width:100%;
+    min-height: 180px;
+}
+#classesmemberships .card{
+    padding: 0px;
+}
 /* Footer section */
 
 #contactinfo {
