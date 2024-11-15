@@ -113,8 +113,7 @@ I made my wireframes using figma, this was then molded and made into my websites
 ---
 This website is deployed on github pages
 
-[]
-()
+[Jamie's Gyms](https://jamesbracken.github.io/One-fitness/)
 [//]: <> (Deployment How to run this project locally scripts needed to run or envirionment variables)
 [//]: <> (Credits)
 [//]: <> ()
