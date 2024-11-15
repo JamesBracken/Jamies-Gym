@@ -1,5 +1,13 @@
+# Jamie's gyms
+
+
 [//]: <> (UX)
-# UX
+Welcome to Jamie's gyms, the place to get fitter, faster! I chose to build a gym website with my previous sports history, I always loved it! I built this website to welcome others into the world of sports and fitness. The website has been built with our customer base in mind, considering new fresh faces to the industry and sports enthusiasts alike. We know going into a gym can be a bit daunting for most, images that are comforting and that show the enjoyment within our gym are displayed to help ease any doubts.  
+
+The website is split into three pages, we have the landing page, classes page and our signup page (Successful signin page included in this)
+
+![alt text](./assets/images/readme/website-responsive-design-presentation.PNG)
+## UX
 
 [//]: <> (UX Project goals)
 ## Project goals
