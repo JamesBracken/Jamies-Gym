@@ -296,7 +296,7 @@ footer i {
 /* Media devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
     #membershipsection .card-body {
-        height: 334px;
+        height: 310px;
     }
 }
 
