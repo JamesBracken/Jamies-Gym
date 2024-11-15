@@ -114,6 +114,10 @@ ul li a {
 
 /* Header */
 
+.title {
+    font-size: 60px;
+    text-align: center;
+}
 .active {
     font-weight: bold;
 }
