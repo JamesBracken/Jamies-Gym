@@ -273,9 +273,18 @@ footer i {
     color: #A8BBB0
 }
 
-/* Media devices (large laptops, 768px and up) */
+/* Media devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
     #membershipsection .card-body {
-        min-height: 334px;
+        height: 334px;
+    }
+}
+
+/* Media devices (laptops, 992px and up */
+@media screen and (min-width: 992px) {
+
+/* Card is too long, this removes excessive whitespace */
+    #membershipsection .card-body {
+        max-height: 270px;
     }
 }
