@@ -183,6 +183,9 @@ header #title {
 
 /* Main content */
 
+.category-text-content-div {
+    padding: 0 10px 0 10px !important;
+}
 /* Discount section */
 
 /* #discount button {

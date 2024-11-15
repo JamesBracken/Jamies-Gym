@@ -17,7 +17,9 @@
     <!-- CSS stylesheet -->
     <link rel="stylesheet" href="./assets/CSS/style.css">
 </head>
-<body>
+<!-- Below code used to push footer down to bottom -->
+ <!-- This code is taken from Boardwalk games -->
+<body class="d-flex flex-column min-vh-100">
     <!-- Navigation section -->
     <nav class="navbar navbar-expand-md fixed-top bg-dark">
         <div class="container-fluid">
@@ -48,7 +50,20 @@
             </div>
         </div>
     </nav>
-    !-- Footer -->
+    <main>
+        <!-- Successful section -->
+        <section class="container section mt-4">
+            <div class="row justify-content-center">
+                <div class="col-6"><h1>Success!</h1>
+                    <p>You have successfully signed up! Press the button below to be directed back to the main page</p>
+                    <div class="redbuttons d-flex justify-content-center my-2">
+                        <a href="classes.html"><button class="navlink align-center">Classes</button></a>
+                    </div></div>
+            </div>
+        </section>
+        
+    </main>
+    <!-- Footer -->
     <footer id="contact" class="mt-auto bg-dark">
         <div class="container section ">
             <div class="row justify-content-center white-text">
