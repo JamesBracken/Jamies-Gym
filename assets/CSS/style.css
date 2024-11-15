@@ -39,7 +39,20 @@ body {
 
 p,
 .text-content {
-    font-family: var(--primary-font)
+    font-family: var(--primary-font);
+    font-size: 16px !important;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 37px;
+}
+
+h3 {
+    font-size:26px;
 }
 
 .container {
@@ -121,7 +134,7 @@ ul li a {
 
 /* Header */
 
-.title {
+.main-heading {
     font-size: 60px;
     text-align: center;
     font-weight: bolder;
