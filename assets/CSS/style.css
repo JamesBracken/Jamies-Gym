@@ -52,7 +52,7 @@ h2 {
 }
 
 h3 {
-    font-size:26px;
+    font-size: 26px;
 }
 
 a:hover,
@@ -150,7 +150,7 @@ ul li a {
 
 .active {
     font-weight: bold;
-    color: grey!important;
+    color: grey !important;
 }
 
 header #title {
@@ -186,6 +186,7 @@ header #title {
 .category-text-content-div {
     padding: 0 10px 0 10px !important;
 }
+
 /* Discount section */
 
 /* #discount button {
@@ -270,8 +271,9 @@ website, will re-attempt later in the course if time allows */
 /* Footer section */
 
 .social-media-links i {
-    color: #A8BBB0!important;
+    color: #A8BBB0 !important;
 }
+
 #contactinfo {
     float: right;
 }
@@ -303,13 +305,26 @@ footer i {
     #membershipsection .card-body {
         height: 310px;
     }
+
+    #classesmemberships img {
+        min-height: 200px !important;
+    }
 }
 
 /* Media devices (laptops, 992px and up */
 @media screen and (min-width: 992px) {
 
-/* Card is too long, this removes excessive whitespace */
+    /* Card is too long, this removes excessive whitespace */
     #membershipsection .card-body {
         max-height: 270px;
     }
+}
+
+/* Media devices (large screens, 1440px and up)*/
+@media screen and (min-width: 1440px) {
+
+    #classesmemberships img {
+        min-height: 220px !important;
+    }
+
 }
