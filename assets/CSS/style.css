@@ -265,6 +265,9 @@ website, will re-attempt later in the course if time allows */
 
 /* Footer section */
 
+.social-media-links i {
+    color: #A8BBB0!important;
+}
 #contactinfo {
     float: right;
 }
