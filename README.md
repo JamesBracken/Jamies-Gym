@@ -28,11 +28,28 @@ The primary goal of Jamie's gyms is to provide an intuitive, comforting and user
 
 ### Business goals
 
-1. As a company I would like an intuitive UX/UI to have a smooth and enjoyable signup process to easily translate new users into new clients
+1. As a company I would like an intuitive UX/UI to have a smooth and enjoyable website so as to easily translate new users into new clients
 2. As a company I want to clearly and descriptively convey all of my business offers to widen and drive potential client interest 
 3. As a company I want a CTA that stands out, is immediately displayed on open of the webpage and is ALWAYS visible so it's always easily accessible for my potential clients
 
+
 [//]: <> (UX User stories)
+### User stories
+
+1. As a new user I would like to easily be able to navigate to the gym sign up to apply for a gym membership
+2. As a user I would like to be able to quickly see any potential for discounts or savings within the gym
+3. As a Fitness enthusiast I would like to be able to see detailed information of the different classes available to customers so I can decide if this is the right gym for me
+4. As a fitness enthusiast I would like to be able to see what amenities and
+other services the gym has to offer other than weight lifting and excercise
+5. As a member of the public I would like to be able to start out my gym journey
+by booking a gym induction, so I am able to learn how to use gym equipment safely
+6. As a First-time visitor, I would like to be able to navigate to different parts of the website with relative ease, so I can find the information I need without frustration. Additionally the website should be responsive across multiple devices.
+7. As a user I would like to be able to book classes at the click of a button so I can come whenever I want
+8. As a user I would like to be able to book classes at the click of a button so I can come
+whenever I want
+9. As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym
+
+
 [//]: <> (UX Design choices)
 [//]: <> (UX Wireframes)
 [//]: <> (FEATURES)
