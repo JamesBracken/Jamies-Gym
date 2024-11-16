@@ -133,7 +133,7 @@
                     <h2 class="heading text-center">Signup below!</h2>
                 </div>
                 <div class="col-12 ">
-                    <form class="row g-3 needs-validation justify-content-center" get="GET" action="success.html">
+                    <form class="row g-3 needs-validation justify-content-center" method="GET" action="success.html">
                         <div class="col-md-4">
                             <label for="firstname" class="form-label">First name</label>
                             <input type="text" class="form-control" name="first name" id="firstname" required>
@@ -150,8 +150,7 @@
                         </div>
                         <div class="col-md-4">
                             <label for="email" class="form-label">Email address</label>
-                            <input type="email" class="form-control" id="email"
-                                aria-describedby="email address required" required>
+                            <input type="email" class="form-control" id="email" required>
                             <div class="invalid-feedback">
                                 Please input a valid email
                             </div>
@@ -162,7 +161,7 @@
                             <select id="membership-select" class="form-select" aria-label="Default select example"
                                 required>
                                 <option value="">Please select one of these options</option>
-                                <option value="3" required>Platinum</option>
+                                <option value="3">Platinum</option>
                                 <option value="2">Gold</option>
                                 <option value="1">Silver</option>
                             </select>
@@ -180,7 +179,7 @@
 
 
                         <div class="col-12">
-                            <input class="redbuttonssubmit" type="submit"></input>
+                            <input class="redbuttonssubmit" type="submit">
                         </div>
                     </form>
                 </div>
