@@ -111,10 +111,16 @@ I made my wireframes using figma, this was then molded and made into my websites
 ## Testing
 
 ### HTML validator
+My html code initially showed up with a few issues such as 
+- Nesting a button tag in an anchor
+- Nesting a div in a ul
+I fixed these issues and no further problems on all pages
 
+[A webpage showing an html validator with no issues](./assets/images/readme/html-validator-home.PNG)
 
 ### CSS Validator
-
+No css validator issues
+[A page showing no error for my input code](./assets/images/readme/css-validator.PNG)
 
 ### Lighthouse
 
