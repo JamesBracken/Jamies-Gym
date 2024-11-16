@@ -107,6 +107,20 @@ I made my wireframes using figma, this was then molded and made into my websites
 5. [Google fonts](https://fonts.google.com/)- To import my fonts
 6. [Tiny Img](https://tinyjpg.com/) - to optimize my images
 [//]: <> (Testing)
+
+## Testing
+
+### HTML validator
+
+
+### CSS Validator
+
+
+### Lighthouse
+
+After passing my project through lighthouse I got the below scores
+
+[Image displaying my deployed webpage with lighthouse scores](./assets/images/readme/lighthouse-home.PNG)
 [//]: <> (Deployment)
 
 ## Deployment
@@ -115,6 +129,7 @@ This website is deployed on github pages
 
 [Jamie's Gyms](https://jamesbracken.github.io/One-fitness/)
 [//]: <> (Deployment How to run this project locally scripts needed to run or envirionment variables)
+This webpage does not require any environmental variables or scripts
 [//]: <> (Credits)
 [//]: <> ()
 [//]: <> ()
