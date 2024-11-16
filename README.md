@@ -8,9 +8,8 @@ The website is split into three pages, we have the landing page, classes page an
 
 ![Different sized screens on different devices showing what my website looks like on each](./assets/images/readme/website-responsive-design-presentation.PNG)
 
-![]
-## UX
----
+
+# UX SECTION
 
 [//]: <> (UX Project goals)
 ## Project goals
@@ -53,9 +52,7 @@ other services the gym has to offer other than weight lifting and excercise
 by booking a gym induction, so I am able to learn how to use gym equipment safely
 6. As a First-time visitor, I would like to be able to navigate to different parts of the website with relative ease, so I can find the information I need without frustration. Additionally the website should be responsive across multiple devices.
 7. As a user I would like to be able to book classes at the click of a button so I can come whenever I want
-8. As a user I would like to be able to book classes at the click of a button so I can come
-whenever I want
-9. As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym
+8. As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym
 
 
 [//]: <> (UX Design choices)
@@ -125,21 +122,28 @@ No css validator issues
 
 ### Lighthouse
 
-After passing my project through lighthouse I got the below scores
+After passing my project through lighthouse I got the below scores, very near perfect. The hero image unfortunately takes up some performance points but if optimized further becomes pixelated so I left it as is
 
 ![Image displaying my deployed webpage with lighthouse scores](./assets/images/readme/lighthouse-home.PNG)
 
+### Notes of errors, bugs, issues and incomplete items
 | Activity | Expected | Actual | Action | Screenshot |
 |----------|----------|--------|--------|------------|
 |Create a CTA|Normal button          |Distorted button and doubled also pushed out of the nav       |Removed button nested in anchor and used css styling to make button styles instead        | [Image of code](./assets/images/readme/cta-double-targeted-ss.PNG)            |
 |Style the website with my chosen color palette          |Concise cohesive website          |Strange combination and mesh of colors         |Exchanged celadon color nav and footer with dark-bg from bootstrap and place a light grey background for the page        |[Home page for my website](./assets/images/readme/page-color-ss.PNG)            |
-
+|User Goals: As a new user I would like a gym with guidance through personal training, instructive materials and induction|Fillable form to go for an induction and personal training| Not made, out of the scope of this project        |        |            |
+|User story: As a fitness enthusiast I would like to be able to see detailed information of the different classes available to customers so I can decide if this is the right gym for me          |Amenities page           |Not made, out of the scope of this project        |        |            |
+|User story: As a member of the public(everyone) I would like to be able to start out my gym journey by booking a gym induction, so I am able to learn how to use gym equipment safely          |Create an induction form           |Not made, out of the scope of this project        |        |            |
+|User story: As a user I would like  to be able to book classes at the click of a button so I can come whenever I want          |Class booking form          |Not made, out of the scope of this project        |        |            |
+|User story: As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym          |          |        |        |            |
+|          |          |        |        |            |
+|          |          |        |        |            |
 ## Deployment
 ---
 This website is deployed on github pages
 
 [Jamie's Gyms](https://jamesbracken.github.io/One-fitness/)
-[//]: <> (Deployment How to run this project locally scripts needed to run or envirionment variables)
+
 This webpage does not require any environmental variables or scripts
 [//]: <> (Credits)
 [W3schools](https://www.w3schools.com/) Used them a lot for code I was not sure about
