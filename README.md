@@ -83,9 +83,9 @@ For our images I aimed to implement similar contrast pictures to the website col
 - **Wireframes**
 I made my wireframes using figma, this was then molded and made into my websites, original designs on these figma wireframes have been tweaked. Specifically the colors within the website was changed due to celadon not being very fitting within the webpage
 
-[Home page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=0-1&m=dev&t=Rk9vMcX76FpvQDS6-1)
-[Classes page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=160-2112&m=dev&t=Rk9vMcX76FpvQDS6-1)
-[Signup page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=98-126&m=dev&t=Rk9vMcX76FpvQDS6-1) 
+- [Home page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=0-1&m=dev&t=Rk9vMcX76FpvQDS6-1) 
+- [Classes page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=160-2112&m=dev&t=Rk9vMcX76FpvQDS6-1)
+- [Signup page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=98-126&m=dev&t=Rk9vMcX76FpvQDS6-1) 
 
 [//]: <> (FEATURES)
 [//]: <> (FEATURES Existing Features)
@@ -133,7 +133,6 @@ After passing my project through lighthouse I got the below scores
 |----------|----------|--------|--------|------------|
 |Create a CTA|Normal button          |Distorted button and doubled also pushed out of the nav       |Removed button nested in anchor and used css styling to make button styles instead        | [Image of code](./assets/images/readme/cta-double-targeted-ss.PNG)            |
 |Style the website with my chosen color palette          |Concise cohesive website          |Strange combination and mesh of colors         |Exchanged celadon color nav and footer with dark-bg from bootstrap and place a light grey background for the page        |[Home page for my website](./assets/images/readme/page-color-ss.PNG)            |
-[//]: <> (Deployment)
 
 ## Deployment
 ---
