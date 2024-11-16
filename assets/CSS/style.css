@@ -152,7 +152,7 @@ ul li a {
 
 .active {
     font-weight: bold;
-    color: lightgrey !important;
+    color: #9d9696 !important;
 }
 
 header #title {
