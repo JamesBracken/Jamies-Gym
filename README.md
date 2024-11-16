@@ -128,6 +128,11 @@ No css validator issues
 After passing my project through lighthouse I got the below scores
 
 ![Image displaying my deployed webpage with lighthouse scores](./assets/images/readme/lighthouse-home.PNG)
+
+| Activity | Expected | Actual | Action | Screenshot |
+|----------|----------|--------|--------|------------|
+|Create a CTA|Normal button          |Distorted button and doubled also pushed out of the nav       |Removed button nested in anchor and used css styling to make button styles instead        | [Image of code](./assets/images/readme/cta-double-targeted-ss.PNG)            |
+|Style the website with my chosen color palette          |Concise cohesive website          |Strange combination and mesh of colors         |Exchanged celadon color nav and footer with dark-bg from bootstrap and place a light grey background for the page        |[Home page for my website](./assets/images/readme/page-color-ss.PNG)            |
 [//]: <> (Deployment)
 
 ## Deployment
@@ -138,3 +143,5 @@ This website is deployed on github pages
 [//]: <> (Deployment How to run this project locally scripts needed to run or envirionment variables)
 This webpage does not require any environmental variables or scripts
 [//]: <> (Credits)
+[W3schools](https://www.w3schools.com/) Used them a lot for code I was not sure about
+[Codeinstitute](https://www.w3schools.com/) Using code institute videos I followed some of the structure for readme files
