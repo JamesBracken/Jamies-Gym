@@ -142,7 +142,7 @@ After passing my project through lighthouse I got the below scores, very near pe
 ---
 This website is deployed on github pages
 
-[Jamie's Gyms](https://jamesbracken.github.io/One-fitness/)
+[Jamie's Gyms](https://jamesbracken.github.io/Jamies-Gym/)
 
 This webpage does not require any environmental variables or scripts
 [W3schools](https://www.w3schools.com/) Used them a lot for code I was not sure about
