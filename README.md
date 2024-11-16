@@ -116,17 +116,18 @@ My html code initially showed up with a few issues such as
 - Nesting a div in a ul
 I fixed these issues and no further problems on all pages
 
-[A webpage showing an html validator with no issues](./assets/images/readme/html-validator-home.PNG)
+
+![A webpage showing an html validator with no issues](./assets/images/readme/html-validator-home.PNG)
 
 ### CSS Validator
 No css validator issues
-[A page showing no error for my input code](./assets/images/readme/css-validator.PNG)
+![A page showing no error for my input code](./assets/images/readme/css-validator.PNG)
 
 ### Lighthouse
 
 After passing my project through lighthouse I got the below scores
 
-[Image displaying my deployed webpage with lighthouse scores](./assets/images/readme/lighthouse-home.PNG)
+![Image displaying my deployed webpage with lighthouse scores](./assets/images/readme/lighthouse-home.PNG)
 [//]: <> (Deployment)
 
 ## Deployment
@@ -137,13 +138,3 @@ This website is deployed on github pages
 [//]: <> (Deployment How to run this project locally scripts needed to run or envirionment variables)
 This webpage does not require any environmental variables or scripts
 [//]: <> (Credits)
-[//]: <> ()
-[//]: <> ()
-[//]: <> ()
-[//]: <> ()
-[//]: <> ()
-[//]: <> ()
-[//]: <> ()
-[//]: <> ()
-[//]: <> ()
-[//]: <> ()
