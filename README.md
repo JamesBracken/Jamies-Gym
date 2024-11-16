@@ -64,7 +64,7 @@ by booking a gym induction, so I am able to learn how to use gym equipment safel
 
 ![A color palette of red, black, celadon and ivory](./assets/images/readme/color-palette.PNG)
 
-I chose the color ivory as the main color on the website, it matches the many bright colors shown on all images. Additionally I wanted mostly warm, bright colors to convey a comforting look. I used red as a color to create focus on certain elements which I want people to look at such as our CTA signup button. I alsosubtly adjusted the background color to a light grey. Celadon was originally used for the nav and footer, however I forfeited this color as it didnt mesh well with the rest of the site.
+I chose the color ivory as the main color on the website, it matches the many bright colors shown on all images. Additionally I wanted mostly warm, bright colors to convey a comforting look. I used red as a color to create focus on certain elements which I want people to look at such as our CTA signup button. I alsosubtly adjusted the background color to a ivory. Celadon was originally used for the nav and footer, however I forfeited this color as it didnt mesh well with the rest of the site.
 
 - **Typography**
 
@@ -130,7 +130,7 @@ After passing my project through lighthouse I got the below scores, very near pe
 | Activity | Expected | Actual | Action | Screenshot |
 |----------|----------|--------|--------|------------|
 |Create a CTA|Normal button          |Distorted button and doubled also pushed out of the nav       |Removed button nested in anchor and used css styling to make button styles instead        | ![Image of code](./assets/images/readme/cta-double-targeted-ss.PNG)            |
-|Style the website with my chosen color palette          |Concise cohesive website          |Strange combination and mesh of colors         |Exchanged celadon color nav and footer with dark-bg from bootstrap and place a light grey background for the page        |![Home page for my website](./assets/images/readme/page-color-ss.PNG)            |
+|Style the website with my chosen color palette          |Concise cohesive website          |Strange combination and mesh of colors         |Exchanged celadon color nav and footer with dark-bg from bootstrap and place a ivory background for the page        |![Home page for my website](./assets/images/readme/page-color-ss.PNG)            |
 |User Goals: As a new user I would like a gym with guidance through personal training, instructive materials and induction|Fillable form to go for an induction and personal training| Not made, out of the scope of this project        |        |            |
 |User story: As a fitness enthusiast I would like to be able to see detailed information of the different classes available to customers so I can decide if this is the right gym for me          |Amenities page           |Not made, out of the scope of this project        |        |            |
 |User story: As a member of the public(everyone) I would like to be able to start out my gym journey by booking a gym induction, so I am able to learn how to use gym equipment safely          |Create an induction form           |Not made, out of the scope of this project        |        |            |
