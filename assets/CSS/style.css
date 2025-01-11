@@ -20,9 +20,6 @@
 /* Global styles */
 
 body {
-
-    /* Temporarily changing color to text new style */
-    /* background-color: var(--quaternary-color); */
     background-color: #d3d3d3;
     padding-top: 55px;
 }
@@ -281,6 +278,11 @@ footer i {
     color: #A8BBB0
 }
 
+/* 404 page */
+
+.fillPage {
+    height: 47vh;
+}
 /* Media devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
     #membershipsection .card-body {

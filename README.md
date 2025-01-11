@@ -117,16 +117,6 @@ We have a dedicated classes page showing of our variety, quality and quantity of
 
 [](./)
 
-
-
-<!-- 
-
-3. 
-4. 
-5. 
-6. 
-7.
-8. -->
 ### Extra features
 *
 
