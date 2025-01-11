@@ -1,7 +1,6 @@
 # Jamie's gyms
 
 
-[//]: <> (UX)
 Welcome to Jamie's gyms, the place to get fitter, faster! I chose to build a gym website with my previous sports history, I always loved it! I built this website to welcome others into the world of sports and fitness. The website has been built with our customer base in mind, considering new fresh faces to the industry and sports enthusiasts alike. We know going into a gym can be a bit daunting for most, images that are comforting and that show the enjoyment within our gym are displayed to help ease any doubts.  
 
 The website is split into three pages, we have the landing page, classes page and our signup page (Successful signin page included in this)
@@ -54,6 +53,8 @@ by booking a gym induction, so I am able to learn how to use gym equipment safel
 
 ### Design
 
+
+
 - **Color Scheme**
 
 ![A color palette of red, black, celadon and ivory](./assets/images/readme/color-palette.PNG)
@@ -93,6 +94,8 @@ I made my wireframes using figma, this was then molded and made into my websites
 5. [Google fonts](https://fonts.google.com/)- To import my fonts
 6. [Tiny Img](https://tinyjpg.com/) - to optimize my images
 
+## Features
+CONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENT
 ## Testing
 
 ### HTML validator
@@ -133,5 +136,12 @@ This website is deployed on github pages
 [Jamie's Gyms](https://jamesbracken.github.io/Jamies-Gym/)
 
 This webpage does not require any environmental variables or scripts
-[W3schools](https://www.w3schools.com/) Used them a lot for code I was not sure about
+
+## Acknowledgements
+
+### Code used
+* I did not use any code from any sources except the bootstrap library, comments are added for any bootstrap library code used
+### Tutorials
+
+[W3schools](https://www.w3schools.com/) Used them to read and learn more about specific code which I needed to understand further
 [Codeinstitute](https://www.w3schools.com/) Using code institute videos I followed some of the structure for readme files
