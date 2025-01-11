@@ -9,21 +9,20 @@ The website is split into three pages, we have the landing page, classes page an
 ![Different sized screens on different devices showing what my website looks like on each](./assets/images/readme/website-responsive-design-presentation.PNG)
 
 
-# UX SECTION
+## UX
 
 [//]: <> (UX Project goals)
-## Project goals
----
+### Project plan of action
 
-The primary goal of Jamie's gyms is to provide an intuitive, comforting and user friendly experience to current and potential clients. The website is made to  Jamie's gyms has two target audiences: Health conscious people and sports enthusiasts
-[//]: <> (UX User goals)
+The primary goal of Jamie's gyms is to provide an intuitive, comforting and user friendly experience to current and potential clients. Jamie's gyms has two target audiences: Health conscious people and sports enthusiasts
+
+
 
 ### User goals
----
 
 1. As a user I want a website that is easy to understand and navigate 
 2. As a user I want a gym with an enjoyable environment
-3. As a user Large varieties of classes
+3. As a user I want large varieties of classes
 4. Guidance through personal training, instructive materials and induction
 5. As a user I would like to be able to pick from a selection of different gym memberships, so I can tailor my membership to my needs
 6. As a user I would like to be able to easily navigate to the signup form
@@ -32,16 +31,13 @@ The primary goal of Jamie's gyms is to provide an intuitive, comforting and user
 [//]: <> (UX Developer and business goals)
 
 ### Business goals
----
 
 1. As a company I would like an intuitive UX/UI to have a smooth and enjoyable website so as to easily translate new users into new clients
 2. As a company I want to clearly and descriptively convey all of my business offers to widen and drive potential client interest 
 3. As a company I want a CTA that stands out, is immediately displayed on open of the webpage and is ALWAYS visible so it's always easily accessible for my potential clients
 
 
-[//]: <> (UX User stories)
-### User stories
----
+### Primary user stories
 
 1. As a new user I would like to easily be able to navigate to the gym sign up to apply for a gym membership
 2. As a user I would like to be able to quickly see any potential for discounts or savings within the gym
@@ -55,10 +51,8 @@ by booking a gym induction, so I am able to learn how to use gym equipment safel
 8. As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym
 
 
-[//]: <> (UX Design choices)
 
 ### Design
----
 
 - **Color Scheme**
 
@@ -76,7 +70,6 @@ For fonts I went for Oswald for headings and inter for other text. They both go 
 
 For our images I aimed to implement similar contrast pictures to the website colors. This helped to blend well within the website.
 
-[//]: <> (UX Wireframes)
 - **Wireframes**
 I made my wireframes using figma, this was then molded and made into my websites, original designs on these figma wireframes have been tweaked. Specifically the colors within the website was changed due to celadon not being very fitting within the webpage
 
@@ -84,18 +77,14 @@ I made my wireframes using figma, this was then molded and made into my websites
 - [Classes page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=160-2112&m=dev&t=Rk9vMcX76FpvQDS6-1)
 - [Signup page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=98-126&m=dev&t=Rk9vMcX76FpvQDS6-1) 
 
-[//]: <> (FEATURES)
-[//]: <> (FEATURES Existing Features)
-[//]: <> (FEATURES Left to implement)
-[//]: <> (Technologies used)
-## Technologies
+### Technologies
 ---
-### Programming Languages
+#### Programming Languages
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 * [HTML5](https://en.wikipedia.org/wiki/JavaScript)
 
-### Applications used
+#### Applications used
 
 1. [Visual studio code](https://code.visualstudio.com/) - My personal IDE of choice
 2. [Figma](https://figma.com/) - Used for my wireframes 
@@ -103,7 +92,6 @@ I made my wireframes using figma, this was then molded and made into my websites
 4. [Am I responsive](https://ui.dev/amiresponsive) - Shows my site on multiple screen sizes
 5. [Google fonts](https://fonts.google.com/)- To import my fonts
 6. [Tiny Img](https://tinyjpg.com/) - to optimize my images
-[//]: <> (Testing)
 
 ## Testing
 
@@ -117,7 +105,7 @@ I fixed these issues and no further problems on all pages
 ![A webpage showing an html validator with no issues](./assets/images/readme/html-validator-home.PNG)
 
 ### CSS Validator
-No css validator issues
+I ran my code through a CSS validator and was delighted to see no validator issues
 ![A page showing no error for my input code](./assets/images/readme/css-validator.PNG)
 
 ### Lighthouse
