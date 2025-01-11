@@ -184,14 +184,12 @@ header #title {
 /* Below belonging to class images, complications on structuring this in the 
 website, will re-attempt later in the course if time allows */
 
-.classsectionimg {
+.classSectionImg {
     /* Cards on home page not balanced, this balances all and makes them look more cohesive and similar */
+    width: 100%;
     min-height: 320px;
 }
 
-.classsectionimg {
-    width: 100%;
-}
 
 #membershipsection {
     padding-top: 1.5em;
@@ -308,6 +306,7 @@ footer i {
     .discountImage {
         height: auto;
     }
+    .classSectionImg {}
 }
 
 /* Media devices (large screens, 1440px and up)*/
