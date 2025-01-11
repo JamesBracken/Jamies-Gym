@@ -19,12 +19,6 @@
 
 /* Global styles */
 
-
-/* to check grids structure prior to adding content */
-/* div {
-    border: 2px solid black;
-} */
-
 body {
 
     /* Temporarily changing color to text new style */
@@ -156,7 +150,6 @@ ul li a {
 }
 
 header #title {
-    /* background-color: var(--tertiary-color); */
     width: 98%;
     margin: auto;
 }
@@ -189,25 +182,11 @@ header #title {
     padding: 0 10px 0 10px !important;
 }
 
-/* Discount section */
-
-/* #discount button {
-    list-style-type: none;
-    background-color: var(--primary-color);
-    font-weight: bold;
-    padding:
-
-} */
-
 /* Home class section */
 
 /* Below belonging to class images, complications on structuring this in the 
 website, will re-attempt later in the course if time allows */
 
-/* To eliminate gap between class section images */
-/* #classessection div {
-    padding: 0 0 0 0;
-} */
 .classsectionimg {
     /* Cards on home page not balanced, this balances all and makes them look more cohesive and similar */
     min-height: 320px;
@@ -225,25 +204,21 @@ website, will re-attempt later in the course if time allows */
 
 .membershipcard1header {
     background-color: silver;
-    /* font-weight: bold; */
     font-family: var(--primary-font) !important;
 }
 
 .membershipcard2header {
     background-color: gold;
-    /* font-weight: bold; */
     font-family: var(--primary-font) !important;
 }
 
 .membershipcard3header {
     background-color: #294d8f;
-    /* font-weight: bold; */
     font-family: var(--primary-font) !important;
 }
 
 .blockquote-footer {
     color: #0A0A00;
-    /* font-weight: bold; */
 }
 
 .category-div {
