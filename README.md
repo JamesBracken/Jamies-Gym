@@ -118,7 +118,54 @@ We have a dedicated classes page showing of our variety, quality and quantity of
 [](./)
 
 ### Extra features
-*
+
+**Gym logo** 
+
+![Jamie's gyms logo](./assets/images/readme/logo.PNG)
+
+The logo, one of the main components of every webpage, its one of the things users remember you from. Our logo stands out from the webpage, therefore easily seen. You can also click it at any point to return to the home page during your visit to our website
+
+**Navbar** 
+
+![Our website navbar containing our logo and links to other pages](./assets/images/readme/navbar.PNG)
+
+Our navbar used bootstrap technology to efficiently but elegantly be placed in our website. It sports the gym logo on the left and links to other pages on the right, including our call to action signup button! The navbar is always visible wherever you are on the website and fully responsive, collapsing into a dropdown menu for our mobile users.
+
+**Hero image** 
+
+![Our hero image which is a woman on a stable air bike](./assets/images/home-hero-img.jpg)
+
+Our hero image brings a happy, comforting, energetic and bright vibe to our users, as going to the gym can be a daunting task this is a vital part of why we chose this image.
+
+**Footer**
+
+![Our footer displaying our contact information and gym opening and closing times](./assets/images/readme/footer.PNG)
+
+We have our footer displaying vital information for our users, clearly displaying the gym opening and closing times within a table. We also have our contact information displayed here, as well as our social media. Given the importance of social media platforms nowadays for customer acquisition and company exposure we made sure to include a variety of different platforms and they are easily accessible, you can just click on the icons.(These links are ofcourse leading to the home pages of these social media sites, not real company pages)
+
+**Classes card**
+
+![Classes card, giving a quick summary as to what our gym offers](./assets/images/readme/classes-card.PNG)
+
+Our classes card gives our users a little insight of what we offer in terms of classes. Fully responsive and leads up to our classes page.
+
+**Success page**
+
+![Our success page](./assets/images/readme/success-page.PNG)
+
+A success page displays when we finish filling out our form, this confirms to our users that they have finished signing up for our website.
+
+**404 page**
+
+![404 page](./assets/images/readme/404-page.PNG)
+
+In the case where a user is led to a page which doesnt exist we have our 404 page. The user can easily click the navigate button to go back home or our logo can also lead them back to safety.
+
+**Yoga class video** 
+
+~[A video of a yoga class](./assets/images/readme/yoga-video.PNG)
+
+Giving a little insight into our gym classes is crucial, we have placed a short video in the classes page displaying to our user what one of our fantastic yoga classes looks like. The videos fullscreen has been purposefully disabled as the is not the intended purpose of the video, and quality is not high enough to have high quality on some screens on full screen.
 
 ### Future implementations
 
