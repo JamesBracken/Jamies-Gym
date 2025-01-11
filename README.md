@@ -27,7 +27,6 @@ The primary goal of Jamie's gyms is to provide an intuitive, comforting and user
 6. As a user I would like to be able to easily navigate to the signup form
 7. As a user I would like to get a confirmation that I have successfully signed up after making my applications for membership or newsletters
 
-[//]: <> (UX Developer and business goals)
 
 ### Business goals
 
@@ -41,11 +40,9 @@ The primary goal of Jamie's gyms is to provide an intuitive, comforting and user
 1. As a new user I would like to easily be able to navigate to the gym sign up to apply for a gym membership
 2. As a user I would like to be able to quickly see any potential for discounts or savings within the gym
 3. As a Fitness enthusiast I would like to be able to see detailed information of the different classes available to customers so I can decide if this is the right gym for me
-4. As a fitness enthusiast I would like to be able to see what amenities and
-other services the gym has to offer other than weight lifting and excercise
-5. As a member of the public I would like to be able to start out my gym journey
-by booking a gym induction, so I am able to learn how to use gym equipment safely
-6. As a First-time visitor, I would like to be able to navigate to different parts of the website with relative ease, so I can find the information I need without frustration. Additionally the website should be responsive across multiple devices.
+4. As a fitness enthusiast I would like to be able to see what amenities and other services the gym has to offer other than weight lifting and excercise
+5. As a new user, I would like to be able to start out my gym journey by booking a gym induction, so I am able to learn how to use gym equipment safely
+6. As a First-time visitor, I would like to be able to navigate to different parts of the website with relative ease, so I can find the information I need without frustration Additionally the website should be responsive across multiple devices.
 7. As a user I would like to be able to book classes at the click of a button so I can come whenever I want
 8. As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym
 
@@ -95,7 +92,62 @@ I made my wireframes using figma, this was then molded and made into my websites
 6. [Tiny Img](https://tinyjpg.com/) - to optimize my images
 
 ## Features
-CONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENT
+
+### User stories answering features
+**Story 1** As a new user I would like to easily be able to navigate to the gym sign up to apply for a gym membership
+
+[Call to action button standing out from other elements](./assets/images/readme/cta-button.PNG)
+
+Our signup button is visible no matter where you are on the page or which page you are on, you will always be able to see it. The button also stands out from other elements on the page, making sure that our users can find it very easily.
+
+**Story 2** As a user I would like to be able to quickly see any potential for discounts or savings within the gym
+
+![Discount card showing our discounted on the home page ](./assets/images/readme/discount-card.PNG)
+
+Right on the home page you will be able to see the discount section very quickly as you scroll down the page, displaying a great offer for all of our clients.
+
+
+**Story 3** As a Fitness enthusiast I would like to be able to see detailed information of the different classes available to customers so I can decide if this is the right gym for me
+
+[](./assets/images/readme/classes-display.PNG)
+
+We have a dedicated classes page showing of our variety, quality and quantity of classes. Each class is shown with an image, description and class times giving the user everything they could ever need to decide what is the right fit for them.
+
+**Story 6** As a First-time visitor, I would like to be able to navigate to different parts of the website with relative ease, so I can find the information I need without frustration. Additionally the website should be responsive across multiple devices.
+
+[](./)
+
+
+
+<!-- 
+
+3. 
+4. 
+5. 
+6. 
+7.
+8. -->
+### Extra features
+*
+
+### Future implementations
+
+**Story 4** As a fitness enthusiast I would like to be able to see what amenities and
+other services the gym has to offer other than weight lifting and excercise
+
+An amenities section can be made futurewise displaying our fantastic selection within the gym. This will have its own dedicated page to showoff everything required.
+
+**Story 5** As a new user, I would like to be able to start out my gym journey by booking a gym induction, so I am able to learn how to use gym equipment safely.
+
+A form delived either on the home page, in a modal or on its own dedicated page will be added for our users to be able to safely and properly use our equipment.
+
+**Story 7**  As a user I would like to be able to book classes at the click of a button so I can come whenever I want
+
+A system wherein users are able to book their spot in a class ahead of time so that they can rest easy that their spot in the class is there.
+
+**Story 8** As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym 
+
+Displaying reviews instills trust and gives a taste of things to come, so that new users can have a better understanding if this is the right fit for them. A reviews section will be added relatively near to the bottom of the page displaying constructive criticism, feedback and experiences from our customers.
 ## Testing
 
 ### HTML validator
