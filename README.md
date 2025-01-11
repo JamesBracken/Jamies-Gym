@@ -66,7 +66,9 @@ For fonts I went for Oswald for headings and inter for other text. They both go 
 
 - **Images**
 
-For our images I aimed to implement similar contrast pictures to the website colors. This helped to blend well within the website.
+I chose images with our customers in mind, going into a gym can be a bit of a daunting task for some. We have to make sure that we display the fact that once you get into it, fitness is loved by all and it can be something everyone can enjoy. We show people enjoying themselves, having fun and reaping the benefits. We also display a few pictures which shows the heavy lifting for the truly hardcore gym enthusiasts, heavy deadlifts, martial arts classes whats not to love?I also aimed to implement similar contrast pictures to the website colors. This helped to blend well within the website.
+
+Images were resized and compressed through [Tinyjpg](https://tinyjpg.com/) to optimize load times of the website without destroying image quality. Some images like the hero image were minimally compressed as this stands out and we do not want to reduce quality here.
 
 - **Wireframes**
 I made my wireframes using figma, this was then molded and made into my websites, original designs on these figma wireframes have been tweaked. Specifically the colors within the website was changed due to celadon not being very fitting within the webpage
@@ -90,13 +92,13 @@ I made my wireframes using figma, this was then molded and made into my websites
 4. [Am I responsive](https://ui.dev/amiresponsive) - Shows my site on multiple screen sizes
 5. [Google fonts](https://fonts.google.com/)- To import my fonts
 6. [Tiny Img](https://tinyjpg.com/) - to optimize my images
-
+7. [Browser Stack](https://www.browserstack.com/test-website-on-different-browsers)
 ## Features
 
 ### User stories answering features
 **Story 1** As a new user I would like to easily be able to navigate to the gym sign up to apply for a gym membership
 
-[Call to action button standing out from other elements](./assets/images/readme/cta-button.PNG)
+![Call to action button standing out from other elements](./assets/images/readme/cta-button.PNG)
 
 Our signup button is visible no matter where you are on the page or which page you are on, you will always be able to see it. The button also stands out from other elements on the page, making sure that our users can find it very easily.
 
@@ -109,7 +111,7 @@ Right on the home page you will be able to see the discount section very quickly
 
 **Story 3** As a Fitness enthusiast I would like to be able to see detailed information of the different classes available to customers so I can decide if this is the right gym for me
 
-[](./assets/images/readme/classes-display.PNG)
+![Class cards showing images and descriptions of what we have to offer our users](./assets/images/readme/classes-display.PNG)
 
 We have a dedicated classes page showing of our variety, quality and quantity of classes. Each class is shown with an image, description and class times giving the user everything they could ever need to decide what is the right fit for them.
 
