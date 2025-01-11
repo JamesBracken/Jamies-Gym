@@ -231,6 +231,7 @@ website, will re-attempt later in the course if time allows */
     border-radius: 0 10px 10px 0;
 }
 
+
 /* Classes page */
 
 video {
@@ -292,6 +293,9 @@ footer i {
     #classesmemberships img {
         min-height: 200px !important;
     }
+    .discountImage {
+        height: 288px;
+    }
 }
 
 /* Media devices (laptops, 992px and up */
@@ -300,6 +304,9 @@ footer i {
     /* Card is too long, this removes excessive whitespace */
     #membershipsection .card-body {
         max-height: 270px;
+    }
+    .discountImage {
+        height: auto;
     }
 }
 
