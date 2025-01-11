@@ -236,6 +236,10 @@ website, will re-attempt later in the course if time allows */
 
 /* Classes page */
 
+video {
+    width: 500px;
+    height: 350px;
+}
 #classesmemberships img {
     width: 100%;
     min-height: 180px;
