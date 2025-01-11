@@ -209,17 +209,6 @@ After passing my project through lighthouse I got the below scores, very near pe
 
 ![Image displaying my deployed webpage with lighthouse scores](./assets/images/readme/lighthouse-home.PNG)
 
-### Notes of errors, bugs, issues and incomplete items
-| Activity | Expected | Actual | Action | Screenshot |
-|----------|----------|--------|--------|------------|
-|Create a CTA|Normal button          |Distorted button and doubled also pushed out of the nav       |Removed button nested in anchor and used css styling to make button styles instead        | ![Image of code](./assets/images/readme/cta-double-targeted-ss.PNG)            |
-|Style the website with my chosen color palette          |Concise cohesive website          |Strange combination and mesh of colors         |Exchanged celadon color nav and footer with dark-bg from bootstrap and place a ivory background for the page        |![Home page for my website](./assets/images/readme/page-color-ss.PNG)            |
-|User Goals: As a new user I would like a gym with guidance through personal training, instructive materials and induction|Fillable form to go for an induction and personal training| Not made, out of the scope of this project        |        |            |
-|User story: As a fitness enthusiast I would like to be able to see detailed information of the different classes available to customers so I can decide if this is the right gym for me          |Amenities page           |Not made, out of the scope of this project        |        |            |
-|User story: As a member of the public(everyone) I would like to be able to start out my gym journey by booking a gym induction, so I am able to learn how to use gym equipment safely          |Create an induction form           |Not made, out of the scope of this project        |        |            |
-|User story: As a user I would like  to be able to book classes at the click of a button so I can come whenever I want          |Class booking form          |Not made, out of the scope of this project        |        |            |
-|User story: As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym          |Create a reviews section on the home page          |Not made, out of the scope of this project        |        |            |
-|          |          |        |        |            |
 ### Browsers
 
 |Browser|Not Functioning|Partial Functioning|Full Functioning|
