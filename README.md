@@ -220,6 +220,17 @@ After passing my project through lighthouse I got the below scores, very near pe
 |User story: As a user I would like  to be able to book classes at the click of a button so I can come whenever I want          |Class booking form          |Not made, out of the scope of this project        |        |            |
 |User story: As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym          |Create a reviews section on the home page          |Not made, out of the scope of this project        |        |            |
 |          |          |        |        |            |
+### Browsers
+
+|Browser|Not Functioning|Partial Functioning|Full Functioning|
+|-------|---------------|-------------------|----------------|
+|<i class="fab fa-chrome"></i>Google Chrome| | |✅Pass|
+|<i class="fab fa-firefox-browser"></i>Mozilla Firefox| | |✅Pass|
+|<i class="fab fa-edge"></i>Microsoft Edge| | |✅Pass|
+|<i class="fab fa-opera"></i>Opera|| |✅Pass|
+
+
+Research data displayed these being the most used browsers with the exclusion of safari. All aspects and elements of the website worked without issue on all browsers.
 
 ## Deployment
 
