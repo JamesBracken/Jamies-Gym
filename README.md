@@ -102,7 +102,8 @@ CONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCONTENTCON
 My html code initially showed up with a few issues such as 
 - Nesting a button tag in an anchor
 - Nesting a div in a ul
-I fixed these issues and no further problems on all pages
+
+I fixed these issues and no further problems were present on all pages
 
 
 ![A webpage showing an html validator with no issues](./assets/images/readme/html-validator-home.PNG)
@@ -128,19 +129,31 @@ After passing my project through lighthouse I got the below scores, very near pe
 |User story: As a user I would like  to be able to book classes at the click of a button so I can come whenever I want          |Class booking form          |Not made, out of the scope of this project        |        |            |
 |User story: As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym          |Create a reviews section on the home page          |Not made, out of the scope of this project        |        |            |
 |          |          |        |        |            |
-|          |          |        |        |            |
+
 ## Deployment
----
-This website is deployed on github pages
 
-[Jamie's Gyms](https://jamesbracken.github.io/Jamies-Gym/)
+### Github pages
+This website is deployed on github pages - [Jamie's Gyms](https://jamesbracken.github.io/Jamies-Gym/)
 
+How to deploy a site using GitHub Pages:
+
+1.Create a github account
+2.Sign in to github
+3.Click on settings
+4.Go to your project repository - [Jamie's Gyms](https://jamesbracken.github.io/Jamies-Gym/)
+5.Choose *Pages* in the navigation menu on the left side of the screen
+6.In the source dropdown, Make sure you are on *main* branch and then click on save
+
+After you have completed all these the website will start to be constructed by github pages, following this you will be able to open your page from the home page of your repository on the right side within the *Deployments* section
+
+### Environmental variables / scripts
 This webpage does not require any environmental variables or scripts
 
 ## Acknowledgements
 
 ### Code used
 * I did not use any code from any sources except the bootstrap library, comments are added for any bootstrap library code used
+
 ### Tutorials
 
 [W3schools](https://www.w3schools.com/) Used them to read and learn more about specific code which I needed to understand further
