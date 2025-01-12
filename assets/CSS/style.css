@@ -247,10 +247,6 @@ video {
 
 /* Footer section */
 
-.social-media-links i {
-    color: #A8BBB0 !important;
-}
-
 #contactinfo {
     float: right;
 }
@@ -270,12 +266,18 @@ th {
 
 .social-media-links i {
     font-size: 2em;
-    color: var(--secondary-color)
+    color: #A8BBB0 !important;
 }
 
-footer i {
-    color: #A8BBB0
+.social-media-links i:hover {
+    /* color: var(--secondary-color) */
+    color: #39483f !important;
 }
+
+/* footer i {
+    color: #98ada0 ;
+} */
+
 
 /* 404 page */
 
