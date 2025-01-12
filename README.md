@@ -191,7 +191,9 @@ Displaying reviews instills trust and gives a taste of things to come, so that n
 ## Testing
 ---
 
-### HTML validator
+### Automated testing
+
+#### HTML validator
 My html code initially showed up with a few issues such as 
 - Nesting a button tag in an anchor
 - Nesting a div in a ul
@@ -201,15 +203,17 @@ I fixed these issues and no further problems were present on all pages
 
 ![A webpage showing an html validator with no issues](./assets/images/readme/html-validator-home.PNG)
 
-### CSS Validator
+#### CSS Validator
 I ran my code through a CSS validator and was delighted to see no validator issues
 ![A page showing no error for my input code](./assets/images/readme/css-validator.PNG)
 
-### Lighthouse
+#### Lighthouse
 
 After passing my project through lighthouse I got the below scores, very near perfect. The hero image unfortunately takes up some performance points but if optimized further becomes pixelated so I left it as is
 
 ![Image displaying my deployed webpage with lighthouse scores](./assets/images/readme/lighthouse-home.PNG)
+
+## Manual testing
 
 ### Browsers
 
@@ -233,6 +237,19 @@ Research data displayed these being the most used browsers with the exclusion of
 |Laptop|Small Laptop/Desktop|1024px|✅Pass|
 
 
+### Navbar
+|Feature|Expected Outcome|Testing Performed|Result|Pass/Fail|
+|-------|----------------|-----------------|------|---------|
+|Navbar |Visible all throughout each page | Scrolled each page | Navbar is constantly visible|✅Pass |
+|Navbar Hamburger Icon |On mobile screen sizes nav links are consolidated into a hamburger icon |Resized viewport to 320px (standard mobile width) |Burger icon replaces links |✅Pass |
+|Navbar Hamburger Icon |On click this acts as a drop down menu and displays the hidden options  | Clicked the burger icon | Menu expanded and displayed options |✅Pass |
+|Navbar Logo| On click the user is brought to the top of the home page|Clicked the logo from other pages| Website returned to the home page|✅Pass|
+|Navbar links| On hover of links color changes|Hover over all links|Color changes|✅Pass|
+|Navbar links| On hover of the logo the color changes|Hover over the logo|Color changes|✅Pass|
+|Navbar Classes| On click of this links I should be brought to the Classes page|Clicked the links|I am brought to the Classes page|✅Pass|
+|Navbar Home| On click of this links I should be brought to the Home page|Clicked the links|I am brought to the Home page|✅Pass|
+||||||
+||||||
 ## Deployment
 ---
 
