@@ -94,6 +94,7 @@ I made my wireframes using figma, this was then molded and made into my websites
 6. [Tiny Img](https://tinyjpg.com/) - to optimize my images
 7. [Browser Stack](https://www.browserstack.com/test-website-on-different-browsers)
 ## Features
+---
 
 ### User stories answering features
 **Story 1** As a new user I would like to easily be able to navigate to the gym sign up to apply for a gym membership
@@ -188,6 +189,7 @@ A system wherein users are able to book their spot in a class ahead of time so t
 
 Displaying reviews instills trust and gives a taste of things to come, so that new users can have a better understanding if this is the right fit for them. A reviews section will be added relatively near to the bottom of the page displaying constructive criticism, feedback and experiences from our customers.
 ## Testing
+---
 
 ### HTML validator
 My html code initially showed up with a few issues such as 
@@ -216,12 +218,23 @@ After passing my project through lighthouse I got the below scores, very near pe
 |<i class="fab fa-chrome"></i>Google Chrome| | |✅Pass|
 |<i class="fab fa-firefox-browser"></i>Mozilla Firefox| | |✅Pass|
 |<i class="fab fa-edge"></i>Microsoft Edge| | |✅Pass|
-|<i class="fab fa-opera"></i>Opera|| |✅Pass|
+|<i class="fab fa-opera"></i>Opera| | |✅Pass|
 
 
 Research data displayed these being the most used browsers with the exclusion of safari. All aspects and elements of the website worked without issue on all browsers.
 
+
+### Responsiveness
+
+|Screen Size|Device Type|Viewport Width|Pass/Fail|
+|-----------|-----------|--------------|---------|
+|Mobile|Smartphone|320px|✅Pass|
+|Tablet|Tablet |768px|✅Pass|
+|Laptop|Small Laptop/Desktop|1024px|✅Pass|
+
+
 ## Deployment
+---
 
 ### Github pages
 This website is deployed on github pages - [Jamie's Gyms](https://jamesbracken.github.io/Jamies-Gym/)
@@ -237,10 +250,23 @@ How to deploy a site using GitHub Pages:
 
 After you have completed all these the website will start to be constructed by github pages, following this you will be able to open your page from the home page of your repository on the right side within the *Deployments* section
 
+**Forking** 
+To fork this repository follow these steps
+
+1.Setup Git and make sure your git has github authentication
+2.Go to the web page repository [Jamies Gyms](https://github.com/JamesBracken/Jamies-Gym) 
+3.Click on *fork* on the upper right portion of the page.
+4.This has now forked the repository to your own profile. 
+5.Go to your profile and navigate to the forked repository.
+6.Click on *Code* above the list of forked files
+7.Choose the option you need from the dropdown menu. 
+
+Further assistance can be found [HERE](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) on the github Fork a Repo page
 ### Environmental variables / scripts
 This webpage does not require any environmental variables or scripts
 
 ## Acknowledgements
+---
 
 ### Code used
 * I did not use any code from any sources except the bootstrap library, comments are added for any bootstrap library code used
