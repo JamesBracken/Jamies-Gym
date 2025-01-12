@@ -29,6 +29,7 @@ The website is split into three pages, we have the landing page, classes page an
 - [Testing](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#testing)
     - [Automated testing](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#automated-testing)
     - [Manual testing](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#manual-testing)
+    - [Bugs]()
 - [Deployment](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#manual-testing)
     - [Github pages](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#github-pages)
     - [Environment variables / scripts](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#environmental-variables--scripts)
@@ -386,6 +387,9 @@ Research data displayed these being the most used browsers with the exclusion of
 |Incorrect links|If an incorrect link is used the 404 page will be displayed|Incorrect page is requested| 404 page is displayed|✅Pass|
 |Home button|Without using the browser back buttons the user is able to navigate back to the home page|The click me to go home button is clicked|The user is sent back to the home page|✅Pass|
 
+### Bugs
+
+No bugs are present or were present in the development phase of this project. Everything is working as intendedand I can see no issues present. 
 
 ## Deployment
 
