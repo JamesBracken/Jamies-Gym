@@ -10,7 +10,6 @@ The website is split into three pages, we have the landing page, classes page an
 
 ## UX
 
-[//]: <> (UX Project goals)
 ### Project plan of action
 
 The primary goal of Jamie's gyms is to provide an intuitive, comforting and user friendly experience to current and potential clients. Jamie's gyms has two target audiences: Health conscious people and sports enthusiasts
@@ -213,9 +212,9 @@ After passing my project through lighthouse I got the below scores, very near pe
 
 ![Image displaying my deployed webpage with lighthouse scores](./assets/images/readme/lighthouse-home.PNG)
 
-## Manual testing
+### Manual testing
 
-### Browsers
+#### Browsers
 
 |Browser|Not Functioning|Partial Functioning|Full Functioning|
 |-------|---------------|-------------------|----------------|
@@ -228,7 +227,7 @@ After passing my project through lighthouse I got the below scores, very near pe
 Research data displayed these being the most used browsers with the exclusion of safari. All aspects and elements of the website worked without issue on all browsers.
 
 
-### Responsiveness
+#### Responsiveness
 
 |Screen Size|Device Type|Viewport Width|Pass/Fail|
 |-----------|-----------|--------------|---------|
@@ -237,19 +236,72 @@ Research data displayed these being the most used browsers with the exclusion of
 |Laptop|Small Laptop/Desktop|1024px|✅Pass|
 
 
-### Navbar
+#### Navbar
 |Feature|Expected Outcome|Testing Performed|Result|Pass/Fail|
 |-------|----------------|-----------------|------|---------|
 |Navbar |Visible all throughout each page | Scrolled each page | Navbar is constantly visible|✅Pass |
 |Navbar Hamburger Icon |On mobile screen sizes nav links are consolidated into a hamburger icon |Resized viewport to 320px (standard mobile width) |Burger icon replaces links |✅Pass |
 |Navbar Hamburger Icon |On click this acts as a drop down menu and displays the hidden options  | Clicked the burger icon | Menu expanded and displayed options |✅Pass |
 |Navbar Logo| On click the user is brought to the top of the home page|Clicked the logo from other pages| Website returned to the home page|✅Pass|
-|Navbar links| On hover of links color changes|Hover over all links|Color changes|✅Pass|
-|Navbar links| On hover of the logo the color changes|Hover over the logo|Color changes|✅Pass|
+|Navbar links| On hover of links text color changes|Hover over all links|Text color changes|✅Pass|
+|Navbar links| On hover of the logo the text color changes|Hover over the logo|Color of the text changes|✅Pass|
 |Navbar Classes| On click of this links I should be brought to the Classes page|Clicked the links|I am brought to the Classes page|✅Pass|
 |Navbar Home| On click of this links I should be brought to the Home page|Clicked the links|I am brought to the Home page|✅Pass|
-||||||
-||||||
+
+
+#### Home Cards section
+|Feature|Expected Outcome|Testing Performed|Result|Pass/Fail|
+|-------|----------------|-----------------|------|---------|
+|Cards|Cards consolidate and respond well to changes in screen sizes|Checked the cards on 3 major screen sizes 320, 768 and 1024 px|All pages look good on all screen sizes|✅Pass|
+|Sign up button|On click the user is brought to the sign up page|Button is clicked|User is brought to the sign up page|✅Pass|
+|Classes button|On click the user is brought to the classes page|Button is clicked|User is brought to the classes page|✅Pass|
+|Buttons|On hover there should be an indication that I am hovering|I hovered my mouse over the button|The buttons text change color|✅Pass|
+
+
+#### Footer
+|Feature|Expected Outcome|Testing Performed|Result|Pass/Fail|
+|-------|----------------|-----------------|------|---------|
+|Responsiveness|Information is displayed well on different screen sizes|Page is expanded and contracted|Information is shown well and structured on all sizes tested|✅Pass|
+|Social media links|Open the correct media link for the clicked icon|Clicked icons| The correct social media platforms were opened|✅Pass|
+|Social media links|On hover the links change color|Hovered over links|The links changed color|✅Pass|
+
+#### Classes page
+|Feature|Expected Outcome|Testing Performed|Result|Pass/Fail|
+|-------|----------------|-----------------|------|---------|
+|Responsiveness|All elements accross the site stretch, contstrict and grid system is working as intended|Window resized|All elements resized correctly |✅Pass|
+|Video|On click of the mute control video audio stops if playing/ on play and starts|Video mute control toggled off and on|Video audio stops or does not start on play and works again on toggle|✅Pass|
+|Video|On click of the play button video starts and stops|Play and pause button clicked|Video starts and stops|✅Pass|
+|Video|On click of the full screen button the button does not work, this has been disabled due to insufficient video quality for fullscreen on some screen sizes|Fullscreen control clicked|Video does not become full screen|✅Pass|
+
+#### Sign up page
+|Feature|Expected Outcome|Testing Performed|Result|Pass/Fail|
+|-------|----------------|-----------------|------|---------|
+|Membership cards responsiveness|Cards display correctly by row in 768px+|Window sized to 768+|Cards show correctly|✅Pass|
+|Membership cards responsiveness|Cards display correctly by column in 767px or less|Window resized to less than 768px|Cards show correctly|✅Pass|
+|Form responsiveness|Form inputs grid system working as expected |Window resized|Form inputs are adjusting based on given screen size|✅Pass|
+|Form validation|Empty fields are prompted with a warning|Fields are left empty and submit button is clicked|User is prompted with a warning to fill in the required fields|✅Pass|
+|Form validation|If an @ symbol is missing in the email the user is prompted with a warning| Email without an @ symbol is placed and submit button clicked|The user is prompted to include an @ symbol|✅Pass|
+|Form validation|If nothing is followed by the @ the user is prompted to fill out the last portion of the email address|Text and an @ is placed in the input and the submit button clicked|The user is prompted to enter the last part of the email address|✅Pass|
+|Form validation|If a user does not select one of our memberships the user is prompted to select an option|No option is selected and the submit button is clicked|The user is prompted to select and option from the list|✅Pass|
+|Form validation|If a user does not click the checkbox and agree to the terms and conditions the user is prompted to tick the box|The box is not ticked and submit button is clicked|The user is prompted to tick the box to proceed|✅Pass|
+|Submit button|If the form is filled out correctly the form will be posted and the user will be led to the success page|The form is filled out correctly and the submit button clicked|The form is posted and the user has been led to the success page|✅Pass|
+
+#### Success page
+|Feature|Expected Outcome|Testing Performed|Result|Pass/Fail|
+|-------|----------------|-----------------|------|---------|
+|User feedback|The user is shown a success message that they have successfully signed up|The form is finished and submit button clicked|The user is led to a page which gives them feedback that they have successfully signed up|✅Pass|
+|Home page button|The user should be able to click the home page button and be redirected to the home page |The home page button is clicked|The user is redirected to the home page|✅Pass|
+
+
+
+#### 404 page
+|Feature|Expected Outcome|Testing Performed|Result|Pass/Fail|
+|-------|----------------|-----------------|------|---------|
+|Page is responsive|Page is readable and works on multiple screen sizes|Window resized|Page information is properly displayed across multiple screen sizes|✅Pass|
+|Incorrect links|If an incorrect link is used the 404 page will be displayed|Incorrect page is requested| 404 page is displayed|✅Pass|
+|Home button|Without using the browser back buttons the user is able to navigate back to the home page|The click me to go home button is clicked|The user is sent back to the home page|✅Pass|
+
+
 ## Deployment
 ---
 
