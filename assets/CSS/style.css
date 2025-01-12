@@ -247,6 +247,11 @@ video {
 
 /* Footer section */
 
+/* Makes video notice visible on smaller screen sizes, otherwise the footer covers it */
+.classFooter {
+    margin-top: 90px;
+}
+
 #contactinfo {
     float: right;
 }
@@ -266,7 +271,6 @@ th {
 
 .social-media-links i {
     font-size: 2em;
-    /* color: #A8BBB0 !important; */
     color: var(--tertiary-color);
 }
 
@@ -275,13 +279,8 @@ th {
     color: #39483f !important;
 }
 
-/* footer i {
-    color: #98ada0 ;
-} */
-
-
 /* 404 page */
-
+/* Pushes footer down to the bottom */
 .fillPage {
     height: 47vh;
 }
@@ -303,6 +302,9 @@ th {
     }
     .category-text-content-div {
         padding: 0 10px 0 10px !important;
+    }
+    .classFooter {
+        margin-top: 50px;
     }
 }
 
