@@ -244,9 +244,48 @@ A link for the service with my page url input as well is below
 
 #### Lighthouse
 
-After passing my project through lighthouse I got the below scores, very near perfect. The hero image unfortunately takes up some performance points but if optimized further becomes pixelated so I left it as is
+After passing my project through lighthouse I got the below scores, very near perfect. 
+
+* Home page
 
 ![Image displaying my deployed webpage with lighthouse scores](./assets/images/readme/lighthouse-home.PNG)
+
+The hero image unfortunately takes up some performance points but if optimized further becomes pixelated so I left it as is
+
+* Classes page
+
+![Display of the classes page with lighthouse scores](./assets/images/readme/lighthouse-classes.PNG)
+
+There is some google suggestions which could improve the performance of the website which is by resizing images. I chose not to do this as given the responsive layout of this pagethe images would be pixelated on smaller devices.
+
+* Sign up page
+
+![Sign up page with lighthouse scores](./assets/images/readme/lighthouse-signup.PNG)
+
+Good score no issues to address
+
+* Success page
+
+Perfect score no issues to address
+
+![Success page with lighthouse scores ](./assets/images/readme/lighthouse-success.PNG)
+
+#### Wave testing
+
+Given the current world climate and the importance of ensuring accessibility of the web for everyone I am running my webpage through wave tests
+**Home**
+
+![My website and the displayed wave accessibility feedback](./assets/images/readme/home-wave.PNG)
+
+Everything looking good, only 2 alerts which detail repeat buttons in the class card section and the home button in the nav which are both on purpose and will remain on the website.
+
+**Classes**
+
+![My classes page displaying wave accessibility feedback](./assets/images/readme/signup-wave.PNG)
+
+1 Error which was regarding the contrast on the platinum membership card. To fix this I change the background to a lighter shade of blue (#98B2E1) which give it a very good contrast score of 7+
+
+
 
 ### Manual testing
 
