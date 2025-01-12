@@ -277,15 +277,25 @@ Given the current world climate and the importance of ensuring accessibility of 
 
 ![My website and the displayed wave accessibility feedback](./assets/images/readme/home-wave.PNG)
 
-Everything looking good, only 2 alerts which detail repeat buttons in the class card section and the home button in the nav which are both on purpose and will remain on the website.
+Everything looking good, only 2 alerts which detail repeat buttons/link in the class card section and the home button in the nav which are both on purpose and will remain on the website.
 
 **Classes**
 
+![My classes page and the displayed wave accessibility feedback](./assets/images/readme/classes-wave.PNG)
+
+2 alerts are shown, 1 of the is the redundant link already discussed in the home accessibility testing section.The second alert is about no transcript on the video, given that this is currently excessively out of the scope of the project I have instead opted to put an alt tag.
+
+**Signup**
+
 ![My classes page displaying wave accessibility feedback](./assets/images/readme/signup-wave.PNG)
 
-1 Error which was regarding the contrast on the platinum membership card. To fix this I change the background to a lighter shade of blue (#98B2E1) which give it a very good contrast score of 7+
+1 Contrast Error which was regarding the contrast on the platinum membership card. To fix this I change the background to a lighter shade of blue (#98B2E1) which give it a very good contrast score of 7+. After re-testing this I was able to get a pass on this error. The only other concern here is the Error which shows up as an empty button in the submit button, no concren here. 2 Alerts, 1 is a redundant link in the nav which has already been discussed in the Home accessibility segment, no further explanation. The other alert is about a skipped heading level due to the cards using h3 elements, I have added an h2 to describe this section and better organise the hierarchy.
 
+**Success**
 
+![Success page which follows the user signup, wave accessibility score displayed](./assets/images/readme/success-wave.PNG)
+
+No issues here, 1 alert which is the redundant link that has already been discussed as no problem.
 
 ### Manual testing
 
