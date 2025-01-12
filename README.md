@@ -20,7 +20,7 @@ The website is split into three pages, we have the landing page, classes page an
         - [Images](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#images)
         - [Wireframes](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#wireframes)
     - [Technologies](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#technologies)
-    - [Programming Languages](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#programming-languages)
+        - [Programming Languages](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#programming-languages)
         - [Applications used](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#applications-used)
 - [Features](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#features)
     - [User stories answering features](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#user-stories-answering-features)
@@ -35,7 +35,7 @@ The website is split into three pages, we have the landing page, classes page an
 - [Acknowledgements](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#acknowledgements)
     - [Code used](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#code-used)
     - [Tutorials](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#tutorials)
-
+- [Development life cycle]()
 ## User Experience (UX)
 
 ### Project plan of action
@@ -360,3 +360,10 @@ I did not use any code from any sources except the bootstrap library, comments a
 [W3schools](https://www.w3schools.com/) Used them to read and learn more about specific code which I needed to understand further
 
 [Codeinstitute](https://www.w3schools.com/) Using code institute videos I followed some of the structure for readme files
+
+## Development life cycle
+
+I tracked the development of the project through a gantt chart I made using google sheets. The dates on the top, tasks on the left and green representing when the task was being worked on.
+Noticeably the work is separated into 2 with the black columns. The work was initially done in November 2024 and revisited and slightly altered in January 2025, therefore was separated for clarity.
+
+![Gantt chart](./assets/images/readme/gantt-chart.PNG)
