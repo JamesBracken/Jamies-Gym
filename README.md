@@ -35,7 +35,7 @@ The website is split into three pages, we have the landing page, classes page an
 - [Acknowledgements](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#acknowledgements)
     - [Code used](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#code-used)
     - [Tutorials](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#tutorials)
-- [Development life cycle]()
+- [Development life cycle](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#development-life-cycle)
 ## User Experience (UX)
 
 ### Project plan of action
@@ -109,7 +109,8 @@ I made my wireframes using figma, this was then molded and made into my websites
 3. [Github](https://github.com/) - Site deployment and allows others to see my site
 4. [Am I responsive](https://ui.dev/amiresponsive) - Shows my site on multiple screen sizes
 5. [Google fonts](https://fonts.google.com/)- To import my fonts
-6. [Tiny Img](https://tinyjpg.com/) - to optimize my images
+6. [Tiny Img](https://tinyjpg.com/) - To optimize my images
+7. [Google sheets](https://en.wikipedia.org/wiki/Google_Sheets) - To create my gantt chart and display how to project was developed
 
 ## Features
 
