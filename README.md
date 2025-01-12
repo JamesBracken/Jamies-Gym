@@ -7,10 +7,7 @@ The website is split into three pages, we have the landing page, classes page an
 
 ![Different sized screens on different devices showing what my website looks like on each](./assets/images/readme/website-responsive-design-presentation.PNG)
 
-- [User Experience (UX)](#UX)
-    - []()
-- []()
-- []()
+- [User Experience (UX)]([#user-experience-(ux](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#user-experience-ux)))
 - []()
 - []()
 - []()
