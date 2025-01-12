@@ -7,14 +7,27 @@ The website is split into three pages, we have the landing page, classes page an
 
 ![Different sized screens on different devices showing what my website looks like on each](./assets/images/readme/website-responsive-design-presentation.PNG)
 
+- [User Experience (UX)](#UX)
+    - []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
-## UX
+## User Experience (UX)
 
 ### Project plan of action
 
 The primary goal of Jamie's gyms is to provide an intuitive, comforting and user friendly experience to current and potential clients. Jamie's gyms has two target audiences: Health conscious people and sports enthusiasts
-
-
 
 ### User goals
 
@@ -26,13 +39,11 @@ The primary goal of Jamie's gyms is to provide an intuitive, comforting and user
 6. As a user I would like to be able to easily navigate to the signup form
 7. As a user I would like to get a confirmation that I have successfully signed up after making my applications for membership or newsletters
 
-
 ### Business goals
 
 1. As a company I would like an intuitive UX/UI to have a smooth and enjoyable website so as to easily translate new users into new clients
 2. As a company I want to clearly and descriptively convey all of my business offers to widen and drive potential client interest 
 3. As a company I want a CTA that stands out, is immediately displayed on open of the webpage and is ALWAYS visible so it's always easily accessible for my potential clients
-
 
 ### Primary user stories
 
@@ -45,31 +56,27 @@ The primary goal of Jamie's gyms is to provide an intuitive, comforting and user
 7. As a user I would like to be able to book classes at the click of a button so I can come whenever I want
 8. As a new potential customer I would like to be able to see reviews from past gym guests to understand how others experience was within the gym
 
-
-
 ### Design
 
-
-
-- **Color Scheme**
+#### Color Scheme
 
 ![A color palette of red, black, celadon and ivory](./assets/images/readme/color-palette.PNG)
 
 I chose the color ivory as the main color on the website, it matches the many bright colors shown on all images. Additionally I wanted mostly warm, bright colors to convey a comforting look. I used red as a color to create focus on certain elements which I want people to look at such as our CTA signup button. I alsosubtly adjusted the background color to a ivory. Celadon was originally used for the nav and footer, however I forfeited this color as it didnt mesh well with the rest of the site.
 
-- **Typography**
+#### Typography
 
 ![A display of different sizes, font families and colors](./assets/images/readme/typography.PNG)
 
 For fonts I went for Oswald for headings and inter for other text. They both go well together and give a cool calm look. If there are any import issues fall backs have been added as sans-serif
 
-- **Images**
+#### Images
 
 I chose images with our customers in mind, going into a gym can be a bit of a daunting task for some. We have to make sure that we display the fact that once you get into it, fitness is loved by all and it can be something everyone can enjoy. We show people enjoying themselves, having fun and reaping the benefits. We also display a few pictures which shows the heavy lifting for the truly hardcore gym enthusiasts, heavy deadlifts, martial arts classes whats not to love?I also aimed to implement similar contrast pictures to the website colors. This helped to blend well within the website.
 
 Images were resized and compressed through [Tinyjpg](https://tinyjpg.com/) to optimize load times of the website without destroying image quality. Some images like the hero image were minimally compressed as this stands out and we do not want to reduce quality here.
 
-- **Wireframes**
+#### Wireframes
 I made my wireframes using figma, this was then molded and made into my websites, original designs on these figma wireframes have been tweaked. Specifically the colors within the website was changed due to celadon not being very fitting within the webpage
 
 - [Home page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=0-1&m=dev&t=Rk9vMcX76FpvQDS6-1) 
