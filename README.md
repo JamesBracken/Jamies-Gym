@@ -302,7 +302,7 @@ Research data displayed these being the most used browsers with the exclusion of
 |Form validation|If nothing is followed by the @ the user is prompted to fill out the last portion of the email address|Text and an @ is placed in the input and the submit button clicked|The user is prompted to enter the last part of the email address|✅Pass|
 |Form validation|If a user does not select one of our memberships the user is prompted to select an option|No option is selected and the submit button is clicked|The user is prompted to select and option from the list|✅Pass|
 |Form validation|If a user does not click the checkbox and agree to the terms and conditions the user is prompted to tick the box|The box is not ticked and submit button is clicked|The user is prompted to tick the box to proceed|✅Pass|
-|Submit button|If the form is filled out correctly the form will be posted and the user will be led to the success page|The form is filled out correctly and the submit button clicked|The form is posted and the user has been led to the success page|✅Pass|
+|Submit button|If the form is filled out correctly the form will be posted(GET is used as a method instead purposefuly due to the scope of this project) and the user will be led to the success page|The form is filled out correctly and the submit button clicked|The form is has successfully been filled out so the user has been led to the success page|✅Pass|
 
 #### Success page
 |Feature|Expected Outcome|Testing Performed|Result|Pass/Fail|
