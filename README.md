@@ -215,14 +215,32 @@ My html code initially showed up with a few issues such as
 - Nesting a button tag in an anchor
 - Nesting a div in a ul
 
-I fixed these issues and no further problems were present on all pages
-
+I fixed these issues and no further problems were present on all pages except for the controlsList attribute detailed further below
 
 ![A webpage showing an html validator with no issues](./assets/images/readme/html-validator-home.PNG)
 
+There is 1 further issue which is regarding the controlsList attribute found in the video element in the classes page 
+
+[ControlsList error found in html validator](./assets/images/readme/controlsList-error.PNG)
+
+This error only shows up because controlsList is something relatively new and considered experimental and therefore may not be supported by some browsers. I tested all browsers for the functionality of this and no issues were present because of this attribute therefore this error will be ignored and left there.
+
+I validated all pages with their raw source code but I will also include a list linking the pages for within the validator as well
+
+* List of url validated pages
+
+[Sign up page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamesbracken.github.io%2FJamies-Gym%2Fsignup.html)
+[Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamesbracken.github.io%2FJamies-Gym%2Findex.html)
+[Classes page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamesbracken.github.io%2FJamies-Gym%2Fclasses.html)
+[404 page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjamesbracken.github.io%2FJamies-Gym%2F404)
+
+
 #### CSS Validator
-I ran my code through a CSS validator and was delighted to see no validator issues
+I ran my raw code as well as ran the file through a CSS validator and was delighted to see no validator issues
 ![A page showing no error for my input code](./assets/images/readme/css-validator.PNG)
+
+A link for the service with my page url input as well is below
+[CSS validated home page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjamesbracken.github.io%2FJamies-Gym%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 #### Lighthouse
 
@@ -361,6 +379,10 @@ I did not use any code from any sources except the bootstrap library, comments a
 [W3schools](https://www.w3schools.com/) Used them to read and learn more about specific code which I needed to understand further
 
 [Codeinstitute](https://www.w3schools.com/) Using code institute videos I followed some of the structure for readme files
+
+### Images
+
+All images used within this site have been taken from [Unsplash](https://unsplash.com/s/photos/background) and [Pixabay](https://pixabay.com/)
 
 ## Development life cycle
 
