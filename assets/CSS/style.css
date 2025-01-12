@@ -188,6 +188,7 @@ website, will re-attempt later in the course if time allows */
     /* Cards on home page not balanced, this balances all and makes them look more cohesive and similar */
     width: 100%;
     min-height: 320px;
+    object-fit: cover;
 }
 
 
@@ -226,9 +227,8 @@ website, will re-attempt later in the course if time allows */
 }
 
 .category-div img {
-    border-radius: 0 10px 10px 0;
+    border-radius: 0 0 10px 10px;
 }
-
 
 /* Classes page */
 
@@ -266,7 +266,8 @@ th {
 
 .social-media-links i {
     font-size: 2em;
-    color: #A8BBB0 !important;
+    /* color: #A8BBB0 !important; */
+    color: var(--tertiary-color);
 }
 
 .social-media-links i:hover {
@@ -295,6 +296,13 @@ th {
     }
     .discountImage {
         height: 288px;
+    }
+    /* Testing fixes */
+    .category-div img {
+        border-radius: 0 10px 10px 0;
+    }
+    .category-text-content-div {
+        padding: 0 10px 0 10px !important;
     }
 }
 
