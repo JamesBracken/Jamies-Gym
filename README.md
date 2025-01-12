@@ -7,19 +7,34 @@ The website is split into three pages, we have the landing page, classes page an
 
 ![Different sized screens on different devices showing what my website looks like on each](./assets/images/readme/website-responsive-design-presentation.PNG)
 
-- [User Experience (UX)]([#user-experience-(ux](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#user-experience-ux)))
+
+## Table of contents
 - [User Experience (UX)](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#user-experience-ux)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+    - [Project plan of action](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#project-plan-of-action)
+    - [User goals](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#user-goals)
+    - [Business goals](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#business-goals)
+    - [Primary user stories](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#primary-user-stories)
+    - [Design](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#design)
+        - [Color](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#color-scheme)
+        - [Typography](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#typography)
+        - [Images](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#images)
+        - [Wireframes](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#wireframes)
+    - [Technologies](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#technologies)
+    - [Programming Languages](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#programming-languages)
+        - [Applications used](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#applications-used)
+- [Features](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#features)
+    - [User stories answering features](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#user-stories-answering-features)
+    - [Extra features](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#extra-features)
+    - [Future implementations](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#future-implementations)
+- [Testing](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#testing)
+    - [Automated testing](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#automated-testing)
+    - [Manual testing](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#manual-testing)
+- [Deployment](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#manual-testing)
+    - [Github pages](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#github-pages)
+    - [Environment variables / scripts](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#environmental-variables--scripts)
+- [Acknowledgements](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#acknowledgements)
+    - [Code used](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#code-used)
+    - [Tutorials](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#tutorials)
 
 ## User Experience (UX)
 
@@ -82,7 +97,6 @@ I made my wireframes using figma, this was then molded and made into my websites
 - [Signup page](https://www.figma.com/design/jfDJvLOJmi6vmutUj6emFR/Instagram-UI-Practice?node-id=98-126&m=dev&t=Rk9vMcX76FpvQDS6-1) 
 
 ### Technologies
----
 #### Programming Languages
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
@@ -96,9 +110,8 @@ I made my wireframes using figma, this was then molded and made into my websites
 4. [Am I responsive](https://ui.dev/amiresponsive) - Shows my site on multiple screen sizes
 5. [Google fonts](https://fonts.google.com/)- To import my fonts
 6. [Tiny Img](https://tinyjpg.com/) - to optimize my images
-7. [Browser Stack](https://www.browserstack.com/test-website-on-different-browsers)
+
 ## Features
----
 
 ### User stories answering features
 **Story 1** As a new user I would like to easily be able to navigate to the gym sign up to apply for a gym membership
@@ -170,7 +183,7 @@ In the case where a user is led to a page which doesnt exist we have our 404 pag
 
 **Yoga class video** 
 
-~[A video of a yoga class](./assets/images/readme/yoga-video.PNG)
+![A video of a yoga class](./assets/images/readme/yoga-video.PNG)
 
 Giving a little insight into our gym classes is crucial, we have placed a short video in the classes page displaying to our user what one of our fantastic yoga classes looks like. The videos fullscreen has been purposefully disabled as the is not the intended purpose of the video, and quality is not high enough to have high quality on some screens on full screen.
 
@@ -193,7 +206,6 @@ A system wherein users are able to book their spot in a class ahead of time so t
 
 Displaying reviews instills trust and gives a taste of things to come, so that new users can have a better understanding if this is the right fit for them. A reviews section will be added relatively near to the bottom of the page displaying constructive criticism, feedback and experiences from our customers.
 ## Testing
----
 
 ### Automated testing
 
@@ -308,7 +320,6 @@ Research data displayed these being the most used browsers with the exclusion of
 
 
 ## Deployment
----
 
 ### Github pages
 This website is deployed on github pages - [Jamie's Gyms](https://jamesbracken.github.io/Jamies-Gym/)
@@ -340,12 +351,12 @@ Further assistance can be found [HERE](https://docs.github.com/en/pull-requests/
 This webpage does not require any environmental variables or scripts
 
 ## Acknowledgements
----
 
 ### Code used
-* I did not use any code from any sources except the bootstrap library, comments are added for any bootstrap library code used
+I did not use any code from any sources except the bootstrap library, comments are added for any bootstrap library code used
 
 ### Tutorials
 
 [W3schools](https://www.w3schools.com/) Used them to read and learn more about specific code which I needed to understand further
+
 [Codeinstitute](https://www.w3schools.com/) Using code institute videos I followed some of the structure for readme files
