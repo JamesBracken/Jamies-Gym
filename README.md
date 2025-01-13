@@ -443,3 +443,7 @@ I tracked the development of the project through a gantt chart I made using goog
 Noticeably the work is separated into 2 with the black columns. The work was initially done in November 2024 and revisited and slightly altered in January 2025, therefore was separated for clarity.
 
 ![Gantt chart](./assets/images/readme/gantt-chart.PNG)
+
+To effectively do tasks and perform them in a consistent, efficient and organised manner I used the backlog project board in Github projects. The project is linked to my github page and you can find it [Here](https://github.com/users/JamesBracken/projects/5/views/1). I also attached a screenshot below as a quick reference.
+
+![Screenshot of my backlog project planning board on github](./assets/images/readme/project-backlog.PNG)
