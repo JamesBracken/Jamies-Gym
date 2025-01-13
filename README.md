@@ -31,7 +31,8 @@ The website is split into three pages, we have the landing page, classes page an
     - [Manual testing](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#manual-testing)
     - [Bugs](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#bugs)
 - [Deployment](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#deployment)
-    - [Github pages](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#github-pages)
+    - [Deployment](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#deployment)
+    - [Local Development](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#local-development)
     - [Environment variables / scripts](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#environmental-variables--scripts)
 - [Acknowledgements](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#acknowledgements)
     - [Code used](https://github.com/JamesBracken/Jamies-Gym?tab=readme-ov-file#code-used)
@@ -399,10 +400,15 @@ This website is deployed on github pages - [Jamie's Gyms](https://jamesbracken.g
 **Deploying** How to deploy a site using GitHub Pages:
 
 1.Create a github account
+
 2.Sign in to github
+
 3.Click on settings
+
 4.Go to your project repository - [Jamie's Gyms](https://jamesbracken.github.io/Jamies-Gym/)
+
 5.Choose *Pages* in the navigation menu on the left side of the screen
+
 6.In the source dropdown, Make sure you are on *main* branch and then click on save
 
 After you have completed all these the website will start to be constructed by github pages, following this you will be able to open your page from the home page of your repository on the right side within the *Deployments* section
