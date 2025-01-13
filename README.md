@@ -391,12 +391,12 @@ Research data displayed these being the most used browsers with the exclusion of
 
 No bugs are present or were present in the development phase of this project. Everything is working as intendedand I can see no issues present. 
 
-## Deployment
+## Deployment and Local Development
 
-### Github pages
+### Deployment
 This website is deployed on github pages - [Jamie's Gyms](https://jamesbracken.github.io/Jamies-Gym/)
 
-How to deploy a site using GitHub Pages:
+**Deploying** How to deploy a site using GitHub Pages:
 
 1.Create a github account
 2.Sign in to github
@@ -407,18 +407,54 @@ How to deploy a site using GitHub Pages:
 
 After you have completed all these the website will start to be constructed by github pages, following this you will be able to open your page from the home page of your repository on the right side within the *Deployments* section
 
+### Local development
+
+
+**Cloning**
+To clone a repository follow these steps
+
+1.Login in to Github or create an account if you haven't already
+
+2.Go to this project repository [Jamie's Gyms](https://github.com/JamesBracken/Jamies-Gym)
+
+3.Click on the *Code* button and select whether you would like to cline with HTTPS, SSH or the Github CLI and then copy the link shown
+
+4.Open your terminal in your IDE/code editor of choice then change the current working directory to the location you would like to use for the cloned directory
+
+5.type "git clone" into the terminal and paste the link you copied in the third step the press Enter
+
+**Commiting and Pushing Changes**
+
+1.Open the termin in the directory of your cloned repository
+
+2.Using "git status" check to see your changes are correct
+
+3.If you are ready to commit  type "git add ." to stage all saved changes to be commited, you can alternatively use "git add YOUR_FILENAME" to stage specific files for commit
+
+4.Using "git commit -m "Write your commit message here" commit your changes with a descriptive message, give a good amount of detail but try not to go over 50 characters
+
+5.Finally use "git push origin main" to push your changes to the main branch of your github repository
+
 **Forking** 
 To fork this repository follow these steps
 
 1.Setup Git and make sure your git has github authentication
+
 2.Go to the web page repository [Jamies Gyms](https://github.com/JamesBracken/Jamies-Gym) 
+
 3.Click on *fork* on the upper right portion of the page.
+
 4.This has now forked the repository to your own profile. 
+
 5.Go to your profile and navigate to the forked repository.
+
 6.Click on *Code* above the list of forked files
+
 7.Choose the option you need from the dropdown menu. 
 
 Further assistance can be found [HERE](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) on the github Fork a Repo page
+
+
 ### Environmental variables / scripts
 This webpage does not require any environmental variables or scripts
 
