@@ -24,6 +24,10 @@ body {
     padding-top: 55px;
 }
 
+img {
+    object-fit: cover;
+}
+
 .heading {
     font-family: var(--secondary-font) !important;
 }
